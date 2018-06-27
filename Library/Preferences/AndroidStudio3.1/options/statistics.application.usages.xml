@@ -1,0 +1,27 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="StripeButton[Android Profiler].hidden" count="54" />
+      <entry feature="StripeButton[Android Profiler].shown" count="25" />
+      <entry feature="StripeButton[Version Control].hidden" count="1" />
+      <entry feature="StripeButton[Version Control].shown" count="7" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="276" />
+      <entry feature="git.branch.checkout.local" count="3" />
+      <entry feature="git.branch.compare" count="2" />
+      <entry feature="git.branch.create.new" count="1" />
+      <entry feature="git.branch.merge" count="1" />
+      <entry feature="ide.settings.Instant Run" count="1" />
+      <entry feature="ide.settings.Project Structure" count="1" />
+      <entry feature="ideaapp.started" count="23" />
+      <entry feature="project.view.pane.AndroidView" count="3" />
+      <entry feature="project.view.pane.PackagesPane" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="8" />
+      <entry feature="terminal.mac" count="7" />
+      <entry feature="tips.of.the.day.next" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="18" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="5" />
+    </counts>
+  </component>
+</application>

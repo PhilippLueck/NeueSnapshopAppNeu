@@ -1,0 +1,523 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="$USER_HOME$/NeueSnapshopApp" />
+        <option value="$USER_HOME$/Dokumente/Neuer Ordner 2/NeueSnapshopApp" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapApp12" />
+        <option value="$USER_HOME$/Downloads/NeueSnapshopApp" />
+        <option value="$USER_HOME$/StudioProjects/NeueSnapshopApp" />
+        <option value="$USER_HOME$/StudioProjects/GoogleVisionAPI" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapAppgoogle" />
+        <option value="$USER_HOME$/Downloads/cloud-vision-master/android/CloudVision" />
+        <option value="$USER_HOME$/Downloads/MyApplication2" />
+        <option value="$USER_HOME$/StudioProjects/cloud-vision" />
+        <option value="$USER_HOME$/Downloads/teswcloud" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapApptest" />
+        <option value="$USER_HOME$/Downloads/CloudTesting" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapApp123" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapAppGui" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapApp2" />
+        <option value="$USER_HOME$/Downloads/Cloud3" />
+        <option value="$USER_HOME$/StudioProjects/android-projects-GeoLocation-App" />
+        <option value="$USER_HOME$/Downloads/BasicExample" />
+        <option value="$USER_HOME$/Downloads/VolleyTutorial" />
+        <option value="$USER_HOME$/Downloads/7250835-15aee09d08677db753368468206f109638f91367" />
+        <option value="$USER_HOME$/Downloads/cloud2" />
+        <option value="$USER_HOME$/Downloads/Cloud" />
+        <option value="$USER_HOME$/StudioProjects/CloudTest" />
+        <option value="$USER_HOME$/StudioProjects/Datenbank" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapAppNeu" />
+        <option value="$USER_HOME$/StudioProjects/StudInfo" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapApp" />
+        <option value="$USER_HOME$/StudioProjects/snapshopDB" />
+        <option value="$USER_HOME$/Downloads/CameraDemo" />
+        <option value="$USER_HOME$/StudioProjects/TestKamera" />
+        <option value="$USER_HOME$/StudioProjects/cameraview" />
+        <option value="$USER_HOME$/Downloads/TestKamera" />
+        <option value="$USER_HOME$/StudioProjects/camerakit-android" />
+        <option value="$USER_HOME$/StudioProjects/ShopSnapAppView" />
+        <option value="$USER_HOME$/Downloads/MyApplication" />
+        <option value="$USER_HOME$/Downloads/CameraApp" />
+        <option value="$USER_HOME$/Downloads/KameraTest" />
+        <option value="$USER_HOME$/StudioProjects/capturephoto" />
+        <option value="$USER_HOME$/Downloads/Kamera" />
+        <option value="$USER_HOME$/Downloads/AndroidCameraAPITutorial" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="$USER_HOME$/NeueSnapshopApp" />
+      </list>
+    </option>
+    <option name="lastPath" value="$USER_HOME$/NeueSnapshopApp" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Dokumente/Neuer Ordner 2/NeueSnapshopApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530113444230" />
+              <option name="buildTimestamp" value="1528133413385" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/7250835-15aee09d08677db753368468206f109638f91367">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529870426679" />
+              <option name="buildTimestamp" value="1523654829301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/AndroidCameraAPITutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528384203433" />
+              <option name="buildTimestamp" value="1523654849798" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/BasicExample">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529870605578" />
+              <option name="buildTimestamp" value="1523654829301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CameraApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528484978756" />
+              <option name="buildTimestamp" value="1523654876317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CameraDemo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529339158719" />
+              <option name="buildTimestamp" value="1523654875806" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Cloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529866148474" />
+              <option name="buildTimestamp" value="1523654857391" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Cloud3">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529908574859" />
+              <option name="buildTimestamp" value="1523654829301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/CloudTesting">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530026557120" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/Kamera">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528482148211" />
+              <option name="buildTimestamp" value="1523654839023" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/KameraTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528483435489" />
+              <option name="buildTimestamp" value="1523654876317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MyApplication">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528485225215" />
+              <option name="buildTimestamp" value="1523654844793" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/MyApplication2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530032051252" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/NeueSnapshopApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530109799814" />
+              <option name="buildTimestamp" value="1528133422279" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/TestKamera">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528920871559" />
+              <option name="buildTimestamp" value="1523654824046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/VolleyTutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529870603196" />
+              <option name="buildTimestamp" value="1523654829301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/cloud-vision-master/android/CloudVision">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530032396472" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/cloud2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529868212731" />
+              <option name="buildTimestamp" value="1523654857391" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Downloads/teswcloud">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530030753118" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/NeueSnapshopApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530113738025" />
+              <option name="buildTimestamp" value="1528133413385" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/CloudTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529862994753" />
+              <option name="buildTimestamp" value="1523654857391" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/Datenbank">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529668011457" />
+              <option name="buildTimestamp" value="1523654823830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/GoogleVisionAPI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530088368747" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/NeueSnapshopApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530109746116" />
+              <option name="buildTimestamp" value="1528133422279" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapApp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529648968879" />
+              <option name="buildTimestamp" value="1523654823830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapApp12">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4819257" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530110427029" />
+              <option name="buildTimestamp" value="1528133422279" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapApp123">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530015785781" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapApp2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529923253177" />
+              <option name="buildTimestamp" value="1523654847520" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapAppGUI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529943277233" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapAppGui">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529946122522" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapAppNeu">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529667433188" />
+              <option name="buildTimestamp" value="1523654823830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapAppView">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528914373967" />
+              <option name="buildTimestamp" value="1523654844793" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapAppgoogle">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530045979134" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/ShopSnapApptest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530026558463" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/StudInfo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529663978514" />
+              <option name="buildTimestamp" value="1523654823830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/TestKamera">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528972509590" />
+              <option name="buildTimestamp" value="1523654824046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/android-projects-GeoLocation-App">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529908573932" />
+              <option name="buildTimestamp" value="1523654829301" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/camerakit-android">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528914373967" />
+              <option name="buildTimestamp" value="1523654844793" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/cameraview">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528920945601" />
+              <option name="buildTimestamp" value="1523654824046" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/capturephoto">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528483183081" />
+              <option name="buildTimestamp" value="1523654839023" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/cloud-vision">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1530032003666" />
+              <option name="buildTimestamp" value="1523654827727" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/snapshopDB">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="AI-173.4720617" />
+              <option name="productionCode" value="AI" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1529648593012" />
+              <option name="buildTimestamp" value="1523654823830" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$" />
+  </component>
+</application>

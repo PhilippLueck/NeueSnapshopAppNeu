@@ -1,0 +1,206 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.apple.com/itms/" lang="de">
+
+
+  <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="Mac App Store" /><meta name="description" content="Mac App Store" /><meta name="platform-cache-id" content="13" />
+
+
+
+<title>Suchergebnisse</title>
+
+
+
+
+
+
+<script>
+if (!window.its) {
+    window.its = {};
+}
+its.markupLoadStartTime = new Date().getTime();
+
+if (!window.onerror) window.onerror = function(message, url, lineNumber) {
+    if (!window._earlyOnerrorException) {
+        window._earlyOnerrorException = {message: message,
+                                         url: url,
+                                         lineNumber: lineNumber};
+    }
+};
+</script>
+
+
+    
+    <link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/904f/da-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/904f/da-storefront-search.css" />
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" charset="utf-8" src="/htmlResources/904f/frameworks-primaryinit01.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"storePlatformData":{},"constants":{"fetchSoftwareUpdatesUrl":"https://su.itunes.apple.com/WebObjects/MZSoftwareUpdate.woa/wa/fetchSoftwareUpdates","Urls":{"upgradeITunesUrl":"http://www.apple.com/itunes/download/","upgradeSafariUrl":"http://www.apple.com/safari/download/"},"MZMediaType":{"MobileSoftware":{"id":8,"name":"MobileSoftwareApplications"},"MacSoftware":{"id":12,"name":"DesktopApps"},"Audiobooks":{"id":3,"name":"Audiobooks"},"MusicVideos":{"id":5,"name":"MusicVideos"},"iTunesU":{"id":10,"name":"iTunesU"},"EBooks":{"id":11,"name":"EBooks"},"Music":{"id":1,"name":"Music"},"Podcasts":{"id":2,"name":"Podcasts"},"ClassicSoftware":{"id":7,"name":"iPodGames"},"TVShows":{"id":4,"name":"TVShows"},"Movies":{"id":6,"name":"Movies"},"Ringtones":{"id":9,"name":"Ringtones"},"Textbooks":{"id":13,"name":"Textbooks"}},"SFSortOrder":{"PlaylistName":{"id":9},"RecentBestSellers":{"id":18},"SeriesOrder":{"id":17},"CmcRecommended":{"id":10},"Popularity":{"id":3},"OriginalReleaseDate":{"id":19},"ArtistName":{"id":8},"Featured":{"id":1},"TopRated":{"id":5},"Duration":{"id":11},"ReleaseDate":{"id":2},"TrackNumber":{"id":13},"Name":{"id":0},"AllTimeBestSellers":{"id":14},"ExpirationDate":{"id":6},"Price":{"id":7},"MostRecent":{"id":16},"PurchaseDate":{"id":4},"DateAdded":{"id":15},"DiscNumber":{"id":12}},"SFEntityType":{"Artist":{"id":1},"Playlist":{"id":4},"TopContents":{"id":7},"MultiRoom":{"id":3},"Search":{"id":6},"WeMix":{"id":8},"Cmc":{"id":2},"Work":{"id":10},"Wishlist":{"id":9},"TopAuthors":{"id":12},"Room":{"id":5},"TheyMix":{"id":11}},"countryCode":"deu","languageCode":"de","SFCustomComponentCountryCode":"deu","IXDisplayableKind":{"Artist":{"id":20,"cssClasses":[],"name":"artist"},"MobileSoftware":{"id":11,"cssClasses":["application"],"name":"iosSoftware","mtId":"8"},"Album":{"id":2,"cssClasses":["album","music"],"name":"album","mtId":"1"},"ShortFilm":{"id":8,"cssClasses":["short-film","movie","video"],"name":"shortFilm","mtId":"6"},"PodcastEpisode":{"id":15,"cssClasses":["podcast-episode"],"name":"podcastEpisode","mtId":"2"},"ApplePubEBook":{"id":36,"cssClasses":["ebook"],"name":"ibook","mtId":"11"},"Song":{"id":1,"cssClasses":["song","music"],"name":"song","mtId":"1"},"MovieBundle":{"id":24,"cssClasses":["bundle","movie","video"],"name":"movieBundle","mtId":"6"},"RingtoneAlbum":{"id":22,"cssClasses":[],"name":"ringtoneAlbum","mtId":"9"},"Book":{"id":3,"cssClasses":["audiobook"],"name":"book","mtId":"3"},"ToneAlbum":{"id":32,"cssClasses":[],"name":"toneAlbum","mtId":"9"},"TVEpisode":{"id":6,"cssClasses":["tv-episode","tv","video"],"name":"tvEpisode","mtId":"4"},"TVSeason":{"id":7,"cssClasses":["tv-season","tv","video"],"name":"tvSeason","mtId":"4"},"Course":{"id":34,"cssClasses":["course","itunes-u"],"name":"course","mtId":"10"},"ClassicSoftwarePackage":{"id":18,"cssClasses":["ipod-game"],"name":"gamePackage","mtId":"7"},"Movie":{"id":9,"cssClasses":["movie","video"],"name":"movie","mtId":"6"},"Booklet":{"id":13,"cssClasses":["booklet","music"],"name":"booklet","mtId":"1"},"SocialArtist":{"id":28,"cssClasses":[],"name":"socialArtist"},"EBook":{"id":25,"cssClasses":["ebook"],"name":"epubBook","mtId":"11"},"MacSoftware":{"id":30,"cssClasses":["application","mac-application"],"name":"desktopApp","mtId":"12"},"MusicVideo":{"id":5,"cssClasses":["music-video","music","video"],"name":"musicVideo","mtId":"5"},"Ringtone":{"id":21,"cssClasses":[],"name":"ringtone","mtId":"9"},"Podcast":{"id":4,"cssClasses":["podcast"],"name":"podcast","mtId":"2"},"Concert":{"id":26,"cssClasses":[],"name":"concert","mtId":"1"},"ApplePubTextbook":{"id":37,"cssClasses":["ebook"],"name":"ibookTextbook","mtId":"13"},"SoftwareAddOn":{"id":16,"cssClasses":["software-add-on","application"],"name":"softwareAddOn","mtId":"8"},"Tone":{"id":31,"cssClasses":[],"name":"tone","mtId":"9"},"WeMix":{"id":19,"cssClasses":["wemix","music"],"name":"itunesMix","mtId":"1"},"SocialPerson":{"id":27,"cssClasses":[],"name":"socialPerson"},"ClassicSoftware":{"id":10,"cssClasses":["ipod-game"],"name":"ipodGame","mtId":"7"},"MetaEBook":{"id":35,"cssClasses":["ebook"],"name":"metaEbook","mtId":"13"},"iTunesPass":{"id":12,"cssClasses":["itunes-pass","album","music"],"name":"itunesPass","mtId":"1"},"Mix":{"id":14,"cssClasses":["mix","music"],"name":"mix","mtId":"1"},"TheyMix":{"id":33,"cssClasses":[],"name":"thirdPartyMix"}},"AddToWishlistResult":{"ItemIsFree":{"id":6},"ListFull":{"id":3},"SomeContentAlreadyOwnedButUnfulfilled":{"id":5},"SomeContentAlreadyInWishlist":{"id":1},"Success":{"id":0},"Failure":{"id":2},"SomeContentAlreadyOwned":{"id":4}},"getEmailUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/generateEmail?cc=de","resourceImagePathFrameworks":"https://s.mzstatic.com/htmlResources/904f/frameworks/images/","resourceBasePath":"https://s.mzstatic.com/htmlResources/904f"},"pageData":{},"properties":{"DAH.SharingMenu.WhitelistedServiceIds":["com.apple.share.Twitter.post","com.apple.share.Facebook.post","com.apple.share.Messages.compose"],"DAH.SharingMenu.HashTag":"#MacAppStore","DAH.SharingMenu.ServiceInfo":{"com.apple.share.Facebook.post":{"locKey":"DAH.SharingMenu.Facebook"},"com.apple.share.Twitter.post":{"locKey":"DAH.SharingMenu.Twitter"},"com.apple.share.Messages.compose":{"locKey":"DAH.SharingMenu.iChat"}},"clientStatsLoadTimeGroup":"4030","MZHtmlResourcesUtil.allowDeferJsLoad":true,"ITSServerEnvironment":"prod","ITSServerInstance":"206006","ITSResourceRevNum":"904f","resourceUrlPrefix":"https://s.mzstatic.com","ITSLogger.ServerReportingProtocol":"https","ITSLogger.ServerReportingDomain":"metrics.mzstatic.com","ITSLogger.ServerReportingApp":"MZUserXP","ITSLogger.RecordStatsAction":"recordStats","ITSLogger.SenderName":"ITSClient","ITSLogger.UseLegacyLogFormat":false,"ITSLogger.mirrorToServerByDefaultOnErrors":true,"DynaLoader.allowDynaLoading":true,"itsLoggerQueueProcessingInterval":10000,"cobaltBundleId":"com.apple.itunesu","getCobaltAppLink":"https://itunes.apple.com/de/app/id490217893","iTunesUEnrollLink":"https://itunes.apple.com/WebObjects/DZR.woa/wa/iTunesEnrollPopover?cc=de","cobaltLearnMore":"https://itunes.apple.com/de/learn-more?about=iTunesUUpgradePage&type=2","isCobaltEnabled":true,"isCobaltJavascriptRedirectEnabled":true,"isCobaltUpsellPageEnabled":true,"personalizedButtonsEnabled":true,"SF6.Personalization.isCMAEnabled":true,"SF6.Personalization.isCMSEnabled":true,"SFJ.isNFAEnabledInStorefront":true,"SFJ.isRecommendationsSwooshEnabledInStorefront":true,"SF6.StorePlatform.whitelistParams":["caller","dsid","id","p"],"vendLastSupportedVersionIfAvailable":true,"vendLastSupportedVersionMacOs":true,"isBookGiftingEnabled":true,"metrics":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"ST11"},"iTunes":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"ST11"}},"MacAppStore":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"ST11"}},"Maps":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"disabled":true,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"ST11"}}},"MZStore.shouldAttemptToEvaluateXpathSecondTime":true,"MZStore.shouldCacheElementTypeProtoObjects":true,"isStoweUpgradeDialogEnabled":false,"stoweUpgradeSize":1600000000,"isStopPageOneEnabled":false,"SF.isNotifyMeEnabled":false,"SF.notifyMeIds":[],"SF.notifyMeIdsWithAppleWatchApp":[],"SF.notifyMeIdsWithTvApp":[],"isMovieAnywhereEnabled":true}}</script>
+<script type="text/javascript" charset="utf-8">
+if (!window.iTSLocalization) { iTSLocalization = {}; }
+iTSLocalization._strings = {"Js.MyAlerts.GeniusActivationNeeded.Button":"Zu Genius", "DABuyButton.aria.accept":"Annehmen, @@name@@, Kostenlos", "DAH.SharingMenu.Twitter":"Auf Twitter teilen", "Js.Wishlist.RemoveTooltip":"Aus Wunschliste entfernen", "DABuyButtonAlreadyInstalledExplanation":"Möchtest du @@name@@ @@version@@ kaufen?", "MHJavascriptLocalizations.DIBuyButtonDownloading":"Wird geladen", "DAHSoftwareInstall.Status.EstimatedTime.LessThanAMinute":"weniger als eine Minute", "DAHSoftwareInstall.Status.EstimatedTime.SecondsLeft":"@@seconds@@ @@secondUnit@@", "Js.Showcase.Next":"Nächster Artikel", "Js.DA.BuyButton.Installed":"Installiert", "Js.PreflightCheckWarning.Continue":"Weiter", "DABuyButtonInstall":"App installieren", "DABuyButtonNewerVersionAlreadyInstalledMessage":"Eine neuere Version dieser App ist bereits auf diesem Computer installiert", "DAHSoftwareInstall.Status.Paused":"Gestoppt", "Js.CNConnections.Dialog.GetStarted":"Erste Schritte", "Js.ReportAConcern.SigninMessage":"Gib deine Apple-ID und dein Passwort ein und klicke dann auf „Anmelden“.", "DIBuyButtonDownloadingAria":"Lade „@@name@@“", "DABuyButton.aria.preOrder.buy":"Vorbestellen: @@name@@, @@price@@", "Js.TextTruncation.More":"Mehr", "Js.QuickView.Unavailable.Title":"Die Schnellansicht steht für diesen Artikel derzeit nicht zur Verfügung.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Melden Sie sich an, um einen Beitrag zu posten.", "DAHSoftwareInstall.Status.EstimatedTime.hour":"Std.", "CNConnections.Upload.UploadErrorHeading":"Es gab ein Problem mit Ihrem Upload", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.OptIn.Title":"Ping ist ab dem 30. September nicht mehr verfügbar", "DIBuyButtonDownloadedAria":"Geladen, @@name@@", 
+"Js.MyAlerts.GeniusActivationNeeded.Explanation":"Benachrichtigungen basierend auf deinem Mediathek-Inhalt werden erst aktiviert, nachdem du Genius aktiviert hast. Klicke auf „Zu Genius“ um weitere Informationen dazu anzuzeigen.", "_thousandsSeparator":".", "InAppPurchases":"In-App-Käufe", "DAHSoftwareInstall.Status.EstimatedTime.DaysLeft":"@@days@@ @@dayUnit@@ @@hours@@ @@hourUnit@@", 
+"Js.CNConnections.LoginRequired.Message":"Hierfür ist Ping erforderlich. Ping wird ab dem 30.September nicht mehr verfügbar sein und es werden keine neuen Mitglieder mehr akzeptiert. Wenn Sie bereits ein Mitglied bei Ping sind, dann melden Sie sich unten an, um fortzufahren.", "Js.Pagination.PreviousPage":"Vorige Seite", "DAHSoftwareInstall.Status.Error.MultipleUsers.description":"Um das Update durchzuführen, melde alle Benutzer ab, die zur Zeit an diesem Computer angemeldet sind.", "Js.TellAFriend.SigninTitle":"Melde dich an, um dies Freunden zu empfehlen.", "Js.InlineReview.RateThis":"Bewerten", "Js.InlineReview.5":"Echt super", "DAHSoftwareInstall.Status.EstimatedTime.minutes":"Minuten", "Js.InlineReview.4":"Mag ich", "Js.InlineReview.3":"Ganz nett", "DABuyButtonPreOrdered":"Vorbestellt", "DAHSoftwareInstall.Status.EstimatedTime.second":"Sek.", "Js.InlineReview.2":"Eher nicht", "Js.InlineReview.1":"Schlecht", "Js.InlinePreview.StopPreview":"Vorschau von @@title@@ stoppen", "DAPreordersNotAvailableOnYourOS":"Aktualisiere auf macOS 10.13.2 oder neuer, um diese App vorzubestellen.", "DAHSoftwareInstall.Status.WaitingToInstall":"Zur Installation anstehend ...", "DABuyButtonAlreadyInstalledNoVersionMessage":"@@installedname@@ ist bereits installiert und wurde nicht im Mac App Store gekauft.", "Close":"Schließen", "CNConnections.Dialog.OptIn.Message":"CNConnections.Dialog.OptIn.Message", "Js.DA.BuyButton.Open":"Öffnen", "Js.CreateAccount":"Apple-ID erstellen", "DAHSoftwareInstall.Status.EstimatedTime.hours":"Stdn.", "MZCommerce.Login_explanation":"Gib deine Apple-ID und das Passwort ein und klicke auf „Anmelden“.", "Js.CNConnections.OptInRequired.Title":"Ping", "Cancel":"Abbrechen", "DAHSoftwareInstall.Status.EstimatedTime.seconds":"Sekunden", "DABuyButton.aria.installed":"Installiert, @@name@@", "DABuyButton.aria.preOrder.free":"Vorbestellen: @@name@@, kostenlos", "Js.ManageArtistAlerts.CheckAll.Actors":"Alle Schauspieler markieren", "SF.AskToBuy.PermissionBannerText":"Deine Anfrage wurde gesendet und die Genehmigung eines Elternteils steht noch aus. Deine Eltern können auch auf diesem Gerät @@bannerLinkText@@.", "DABuyButtonSameVersionAlreadyInstalledExplanation":"Möchtest du @@name@@ @@version@@ erneut kaufen?", "DAHSoftwareInstall.Status.FileSizeSeparator":",", "DAPreorderLabel":"Vorbestellen", "More":"Mehr", "DAHSoftwareInstall.Status.EstimatedTime.minute":"Min.", "DABuyButtonPreOrder":"Vorbestellen", "Js.Pagination.DisabledButtonText":"@@button_text@@ deaktiviert", "Js.DA.BuyButton.Installing":"Installieren", "Js.MyAlerts.CancelEmailSignUp.Message":"Möchtest du wirklich keine E-Mail-Updates mehr erhalten?", "JS.errors.requiredLite":"Fülle alle Pflichtfelder aus.", "CNConnections.Dialog.Post.Review.SignIn.Message":"CNConnections.Dialog.Post.Review.SignIn.Message", "SF.AskToBuy.PermissionBannerText.Free.bannerLinkText":"persönlich genehmigen", "MZCommerce.PurchaseBlockedForSpecialEdu_message":"Diese Apple-ID kann nicht zum Einkaufen verwendet werden.", "Js.ManageArtistAlerts.UncheckAll.Artists":"Markierung für alle Interpreten entfernen", "Buy":"Kaufen", "Js.InlineRating.SigninTitle":"Melde dich an, um eine Bewertung abzugeben.", "Js.ManageArtistAlerts.UncheckAll.Actors":"Markierung für alle Schauspieler entfernen", "MHJavascriptLocalizations.DIBuyButtonDownload":"Laden", 
+"Js.CNConnections.OptInRequired.Message":"Hierfür ist Ping erforderlich. Ping wird ab dem 30.September nicht mehr verfügbar sein und es werden keine neuen Mitglieder mehr akzeptiert. Wenn Sie bereits ein Mitglied bei Ping sind, dann melden Sie sich unten an, um fortzufahren.", "DAHSoftwareInstall.Status.Downloading":"@@completed@@ von @@total@@", "DABuyButtonLearnMoreURL.Mavericks":"http://support.apple.com/kb/HT5842?viewlocale=de_DE", "DABuyButtonLearnMoreURL.Lion":"http://support.apple.com/kb/HT4949?viewlocale=de_DE", "DAHSoftwareInstall.Status.EstimatedTime.HoursLeft":"@@hours@@ @@hourUnit@@ @@minutes@@ @@minuteUnit@@", "Js.Search.HintsTitle":"Vorschläge", "DAHSoftwareInstall.Status.EstimatedTime.MinutesLeft":"@@minutes@@ @@minuteUnit@@", "DABuyButtonLearnMoreURL.MtnLion":"http://support.apple.com/kb/HT5444?viewlocale=de_DE", "DAHSoftwareInstall.Status.Error.MultipleUsers":"Mehrere Benutzer angemeldet", "Js.InlinePreview.PlayPreview":"Vorschau von @@title@@ starten", "SignIn":"Anmelden", "DAHSoftwareInstall.Status.Error":"Es ist ein Fehler aufgetreten", "Js.ManageArtistAlerts.UncheckAll":"Alle entfernen", "Js.iTunesStoreError.Message":"Deine Anfrage konnte nicht abgeschlossen werden.", "DVHMusicPurchasesPage.Restored":"Eingeblendet", "DAHSoftwareInstall.Status.Waiting":"Warten...", "Done":"Fertig", "DABuyButton.aria.open":"Öffnen, @@name@@", "Js.Pagination.NextPage":"Nächste Seite", "Js.CNConnections.RequestSent":"Antrag gesendet", "MHJavascriptLocalizations.DIBuyButtonDownloaded":"Geladen", "DABuyButton.aria.install":"Installieren, @@name@@, gratis", "DABuyButtonLearnMore":"Weitere Informationen", "DAH.SharingMenu.iChat":"In Nachrichten teilen", "CNConnections.Upload.UploadErrorMessage":"Während des Uploads ist ein Fehler aufgetreten.", "Js.PreflightCheckFailedError.UpdateTitle":"Wir konnten Ihre Aktualisierung nicht abschließen. ", "Js.InlineReview.SigninMessage":"Gib deine Apple-ID und dein Passwort ein und klicke dann auf „Anmelden“.", "Js.PreflightCheckFailedError.Message":"Dieser Computer besitzt nicht die minimalen Systemanforderungen für die Installation dieser App", "Software.HasAddOns":"In-App-Käufe möglich", "Less":"Weniger", "Js.MyAlerts.GeniusActivationNeeded.Message":"Dazu benötigst du Genius.", "Js.ManageArtistAlerts.CheckAll.Artists":"Alle Interpreten markieren", "Js.TellAFriend.SigninMessage":"Gib deine Apple-ID und dein Passwort ein und klicke dann auf „Anmelden“.", "CNConnections.Dialog.StopFollowing.Title":"Möchten Sie @@fullName@@ wirklich nicht mehr folgen?", "Js.PreflightCheckFailedErrorWithAppName.Title":"Dein Kauf von „@@appName@@“ konnte nicht abgeschlossen werden", "DTHBuyInfo.actionText.Accept":"Akzeptieren", "Js.PreflightCheckFailedError.Title":"Dein Kauf konnte nicht abgeschlossen werden.", "Js.InlineReview.SigninTitle":"Melde dich an, um eine Rezension zu schreiben.", "Js.InlineRating.SigninMessage":"Melde dich an, um fortzufahren.", "DAHSoftwareInstall.Status.EstimatedTime.TimeLeft":"@@time@@ verbleibend", "Js.DA.BuyButton.Install":"Installieren", "DABuyButton.aria.confirm.buy":"Bestätigen, kaufen, @@name@@, @@price@@", "DAHSoftwareInstall.Status.EstimatedTime.days":"Tage", "Js.Pagination.Back":"Zurück", "DABuyButton.aria.installing":"Installation, @@name@@", "DTHBuyInfo.actionText.Gratis":"Gratis", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"Sie müssen Ihre Datenschutzeinstellungen ändern, um diese Aktion ausführen zu können.", "DAPreorderedLabel":"Vorbestellt", "DAHSoftwareInstall.Status.EstimatedTime.day":"Tag", "DVHMusicPurchasesPage.Restore":"Einblenden", "DABuyButton.aria.confirm.install":"Bestätigen, installieren, @@name@@, gratis", "DAHSoftwareInstall.Status.Installing":"Installieren", "Js.QuickView.Unavailable.Text":"Bitte später erneut versuchen.", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"Du kannst diese Voreinstellung jederzeit auf deiner Updates-Seite ändern.", "Js.CNConnections.Dialog.Cancel":"Abbrechen", "Js.CNConnections.PeoplePopupMore":"und @@count@@ weitere ...", "Js.CNConnections.Confirmed":"Bestätigt", "Js.CNConnections.UserReview.YouLiked":"Ihnen gefällt", "MHJavascriptLocalizations.DIBuyButtonUpdate":"Updaten", "Yes":"Ja", "Js.Pagination.Next":"Weiter", "DABuyButton.aria.preOrdered":"Vorbestellt: @@name@@", "Js.ManageArtistAlerts.CheckAll":"Alle markieren", "Js.ReportAConcern.SigninTitle":"Melde dich an, um ein Anliegen zu melden.", "Js.MyAlerts.CancelEmailSignUp.Explanation":"Du kannst diese Voreinstellung jederzeit auf deiner Updates-Seite ändern.", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"Durch Ausführen dieser Aktion können andere Benutzer Ihr Profilfoto und Ihren Namen sehen.", "Js.TextLimit.Remaining":"Noch @@count@@ Zeichen", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Möchten Sie diese Aktion wirklich durchführen?", "DABuyButtonBuyNow":"App kaufen", "Js.Pagination.PageNumberTitle":"seite @@num@@", "DABuyButtonPreOrderedAllCaps":"VORBESTELLT", "SF.AskToBuy.PermissionBannerText.bannerLinkText":"persönlich kaufen", "OK":"OK", "Js.InlineReview.Thanks":"Danke!", "Js.InlineReview.Error":"Fehler", "CNConnections.Dialog.Like.Review.SignIn.Message":"CNConnections.Dialog.Like.Review.SignIn.Message", "Js.List.Item":"Artikel", "DABuyButtonAlreadyInstalledMessage":"@@installedname@@ @@installedversion@@ ist bereits installiert und wurde nicht im Mac App Store gekauft", "No":"Nein", "Js.iTunesStoreError.Explanation":"Im App Store ist ein Fehler aufgetreten. Versuche es später erneut.", "Js.InlineReview.ClickToRate":"Zur Bewertung hier klicken", "DABuyButtonNewerVersionAlreadyInstalledExplanation":"Falls du die App durch diese Version ersetzen möchtest, verschiebe die vorhandene App in den Papierkorb.", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private Benutzer können diese Aktion nicht ausführen.", "DABuyButton.aria.buy":"Kaufen, @@name@@, @@price@@", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Möchtest du wirklich E-Mail-Updates erhalten?", "CNConnections.Dialog.OptIn.ButtonSubmit":"Mehr Infos", "_decimalSeparator":",", "CNConnections.Dialog.OptIn.ButtonCancel":"Abbrechen", "MZCommerce.Login_message":"Anmelden", "DIBuyButtonRedownloadAria":"@@name@@ laden, kostenlos", "Js.CNConnections.LoginRequired.Title":"Anmelden, um auf Ping zuzugreifen", "CNConnections.Dialog.OptIn.ButtonSignIn":"Anmelden", "Js.Pagination.PageNumber":"Seite @@num@@", "DAHSoftwareInstall.Status.EstimatedTime.Calculating":"Berechnen...", "DAH.SharingMenu.Facebook":"Auf Facebook posten", "DIBuyButtonUpdateAria":"Aktualisieren, @@name@@", "CNConnections.Dialog.Like.Review.SignIn.Title":"Melden Sie sich an um eine Rezension mit „Gefällt mir“ zu markieren.", "Js.PreflightCheckWarning.Title":"Möchtest du fortfahren?", "CNConnections.Upload.MaxPhotosErrorMessage":"Ein Beitrag darf nicht mehr als 20 Fotos enthalten."}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/htmlResources/904f/da-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/904f/da-storefront-sharing.js"></script>
+
+
+
+
+
+
+
+</head>
+
+  <body data-country="deu" buy-button-metadata-url="https://se-edge.itunes.apple.com/WebObjects/MZStoreElements.woa/wa/buyButtonMetaData" class="deu de search">
+  <script type="text/javascript">
+    if (window['iTSKit']) { iTSKit.preLoad(); }
+    if (window.its && its.kit) { its.kit.preload(); }
+  </script>
+
+  
+
+  
+  <div id="page">
+    <div id="wrapper">
+
+      <div id="content">
+
+        <div class="background"></div>
+
+        
+
+        
+
+        
+
+    <div class="columns">
+      <div class="main">
+
+        
+
+        
+          
+            <div class="no-result general-search-empty-result titled-container">
+  <div class="title">
+    <h2>Suchergebnisse für „imove“</h2>
+  </div>
+  <div class="content-and-controls">
+    
+    
+      <h2><span class="alert">!</span>Ihre Suche lieferte keine Ergebnisse.</h2>
+      <p>Starte eine erneute Suche.</p>
+    
+  </div>
+</div>
+
+
+
+          
+        
+
+      </div>
+    </div>
+
+  
+
+      </div>
+
+
+      
+      
+
+    </div>
+  </div>
+
+  <footer>
+  <div class="legal">
+    <span class="copyright">Copyright © 2018 Apple Distribution International <a target="_blank" href="https://www.apple.com/de/legal/">Alle Rechte vorbehalten.</a></span>
+    <ul class="list" role="presentation">
+      <li><a target="_blank" href="https://www.apple.com/de/privacy/">Datenschutzrichtlinie</a></li>
+      <li><a target="_blank" href="http://www.apple.com/legal/itunes/de/terms.html">Allgemeine Geschäftsbedingungen</a></li>
+      
+        <li><a href="https://getsupport.apple.com/GetproductgroupList.do?caller=erep&amp;PGF=PGF51002&amp;category_id=SC0999&amp;symptom_id=21148&amp;locale=de_DE" target="_blank">E-Mail iTunes Support</a></li>
+      
+      <li><a href="https://itunes.apple.com/de/faq">Häufig gestellte Fragen</a></li>
+    </ul>
+    
+    <div class="intl" metrics-loc="CountryPicker">
+      <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/countrySelectorPage"><img src-load-auto-after-dom-load="" width="30" height="30" src-swap-high-dpi="https://s.mzstatic.com/images/flags/-dsi-30/deu.png" alt="Mein Store: Deutschland, Store wählen" src-swap="https://s.mzstatic.com/images/flags/30/deu.png"></img></a>
+      
+    </div>
+    
+  </div>
+</footer>
+
+
+  
+  <script type="text/javascript">
+    var pageMetricsUrl = 'https://xp.apple.com/report/2/xp_its_main?responseType=image&eventType=page&app=MacAppStore&pageId=DAHSearchPage&pageType=finance&eventSource=server&page=finance_DAHSearchPage';
+    if (pageMetricsUrl) {
+        pageMetricsUrl += "&eventTime=" + encodeURIComponent((new Date()).getTime());
+    }
+    var billingSection = document.querySelector(".edit-billing, .creditcard");
+    if (billingSection !== null) {
+        var selectedPaymentType = document.querySelector(".credit-card-picker input.selected, #paymentTypeField");
+        if (selectedPaymentType !== null) {
+            pageMetricsUrl += "&pageDetails=pmtTyp%3D" + selectedPaymentType.value;
+        } 
+    }
+    if (its && its.cookies) {
+        var itcCt = its.cookies.getUnescaped("itcCt");
+        var itscc = its.cookies.getUnescaped("itscc");
+        var hasitcCt = false;
+        if (itcCt && itcCt !== "") {
+            pageMetricsUrl += "&cookie=itcCt%3D" + itcCt;
+            hasitcCt = true;
+        }
+        if (itscc && itscc != "") {
+            pageMetricsUrl += (hasitcCt) ? "%26" : "&cookie=";
+            pageMetricsUrl += "itscc%3D" + itscc;
+        }
+    }
+    var containingDiv = document.createElement('div');
+    containingDiv.innerHTML = "<img width='0' height='0' border='0' alt='' aria-hidden=true src='" + pageMetricsUrl + "'/>";
+    document.body.appendChild(containingDiv);
+
+    // NOTE: This should be considered temporary and replaced when a better solution is available.
+    //      right now, SFMetrics should be referenced for all of these, but MZComponents can't access anything
+    //      in MZStoreComponents so we're going to have to go with this workaround.
+    var metricsConfig = {
+        'metricsUrl' : 'https://xp.apple.com/report/2/',
+        'compoundSeparator' : '_',
+        'tokenSeparator' : '|',
+        'postFrequency' : 60000,
+        'metricsBase' : {}
+    };
+</script>
+
+</body>
+
+
+</html>

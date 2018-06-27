@@ -1,0 +1,780 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.apple.com/itms/" lang="de">
+
+
+  <head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta name="keywords" content="Mac App Store" /><meta name="description" content="Mac App Store" /><meta name="platform-cache-id" content="13" />
+
+
+
+<title>Suchergebnisse</title>
+
+
+
+
+
+
+<script>
+if (!window.its) {
+    window.its = {};
+}
+its.markupLoadStartTime = new Date().getTime();
+
+if (!window.onerror) window.onerror = function(message, url, lineNumber) {
+    if (!window._earlyOnerrorException) {
+        window._earlyOnerrorException = {message: message,
+                                         url: url,
+                                         lineNumber: lineNumber};
+    }
+};
+</script>
+
+
+    
+    <link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/904f/da-storefront-base.css" />
+<link charset="utf-8" rel="stylesheet" type="text/css" href="https://s.mzstatic.com/htmlResources/904f/da-storefront-search.css" />
+
+
+
+    
+
+
+
+
+
+
+
+
+    
+<script type="text/javascript" charset="utf-8" src="/htmlResources/904f/frameworks-primaryinit01.js"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript" charset="utf-8">its.serverData={"storePlatformData":{},"constants":{"fetchSoftwareUpdatesUrl":"https://su.itunes.apple.com/WebObjects/MZSoftwareUpdate.woa/wa/fetchSoftwareUpdates","Urls":{"upgradeITunesUrl":"http://www.apple.com/itunes/download/","upgradeSafariUrl":"http://www.apple.com/safari/download/"},"MZMediaType":{"MobileSoftware":{"id":8,"name":"MobileSoftwareApplications"},"MacSoftware":{"id":12,"name":"DesktopApps"},"Audiobooks":{"id":3,"name":"Audiobooks"},"MusicVideos":{"id":5,"name":"MusicVideos"},"iTunesU":{"id":10,"name":"iTunesU"},"EBooks":{"id":11,"name":"EBooks"},"Music":{"id":1,"name":"Music"},"Podcasts":{"id":2,"name":"Podcasts"},"ClassicSoftware":{"id":7,"name":"iPodGames"},"TVShows":{"id":4,"name":"TVShows"},"Movies":{"id":6,"name":"Movies"},"Ringtones":{"id":9,"name":"Ringtones"},"Textbooks":{"id":13,"name":"Textbooks"}},"SFSortOrder":{"PlaylistName":{"id":9},"RecentBestSellers":{"id":18},"SeriesOrder":{"id":17},"CmcRecommended":{"id":10},"Popularity":{"id":3},"OriginalReleaseDate":{"id":19},"ArtistName":{"id":8},"Featured":{"id":1},"TopRated":{"id":5},"Duration":{"id":11},"ReleaseDate":{"id":2},"TrackNumber":{"id":13},"Name":{"id":0},"AllTimeBestSellers":{"id":14},"ExpirationDate":{"id":6},"Price":{"id":7},"MostRecent":{"id":16},"PurchaseDate":{"id":4},"DateAdded":{"id":15},"DiscNumber":{"id":12}},"SFEntityType":{"Artist":{"id":1},"Playlist":{"id":4},"TopContents":{"id":7},"MultiRoom":{"id":3},"Search":{"id":6},"WeMix":{"id":8},"Cmc":{"id":2},"Work":{"id":10},"Wishlist":{"id":9},"TopAuthors":{"id":12},"Room":{"id":5},"TheyMix":{"id":11}},"countryCode":"deu","languageCode":"de","SFCustomComponentCountryCode":"deu","IXDisplayableKind":{"Artist":{"id":20,"cssClasses":[],"name":"artist"},"MobileSoftware":{"id":11,"cssClasses":["application"],"name":"iosSoftware","mtId":"8"},"Album":{"id":2,"cssClasses":["album","music"],"name":"album","mtId":"1"},"ShortFilm":{"id":8,"cssClasses":["short-film","movie","video"],"name":"shortFilm","mtId":"6"},"PodcastEpisode":{"id":15,"cssClasses":["podcast-episode"],"name":"podcastEpisode","mtId":"2"},"ApplePubEBook":{"id":36,"cssClasses":["ebook"],"name":"ibook","mtId":"11"},"Song":{"id":1,"cssClasses":["song","music"],"name":"song","mtId":"1"},"MovieBundle":{"id":24,"cssClasses":["bundle","movie","video"],"name":"movieBundle","mtId":"6"},"RingtoneAlbum":{"id":22,"cssClasses":[],"name":"ringtoneAlbum","mtId":"9"},"Book":{"id":3,"cssClasses":["audiobook"],"name":"book","mtId":"3"},"ToneAlbum":{"id":32,"cssClasses":[],"name":"toneAlbum","mtId":"9"},"TVEpisode":{"id":6,"cssClasses":["tv-episode","tv","video"],"name":"tvEpisode","mtId":"4"},"TVSeason":{"id":7,"cssClasses":["tv-season","tv","video"],"name":"tvSeason","mtId":"4"},"Course":{"id":34,"cssClasses":["course","itunes-u"],"name":"course","mtId":"10"},"ClassicSoftwarePackage":{"id":18,"cssClasses":["ipod-game"],"name":"gamePackage","mtId":"7"},"Movie":{"id":9,"cssClasses":["movie","video"],"name":"movie","mtId":"6"},"Booklet":{"id":13,"cssClasses":["booklet","music"],"name":"booklet","mtId":"1"},"SocialArtist":{"id":28,"cssClasses":[],"name":"socialArtist"},"EBook":{"id":25,"cssClasses":["ebook"],"name":"epubBook","mtId":"11"},"MacSoftware":{"id":30,"cssClasses":["application","mac-application"],"name":"desktopApp","mtId":"12"},"MusicVideo":{"id":5,"cssClasses":["music-video","music","video"],"name":"musicVideo","mtId":"5"},"Ringtone":{"id":21,"cssClasses":[],"name":"ringtone","mtId":"9"},"Podcast":{"id":4,"cssClasses":["podcast"],"name":"podcast","mtId":"2"},"Concert":{"id":26,"cssClasses":[],"name":"concert","mtId":"1"},"ApplePubTextbook":{"id":37,"cssClasses":["ebook"],"name":"ibookTextbook","mtId":"13"},"SoftwareAddOn":{"id":16,"cssClasses":["software-add-on","application"],"name":"softwareAddOn","mtId":"8"},"Tone":{"id":31,"cssClasses":[],"name":"tone","mtId":"9"},"WeMix":{"id":19,"cssClasses":["wemix","music"],"name":"itunesMix","mtId":"1"},"SocialPerson":{"id":27,"cssClasses":[],"name":"socialPerson"},"ClassicSoftware":{"id":10,"cssClasses":["ipod-game"],"name":"ipodGame","mtId":"7"},"MetaEBook":{"id":35,"cssClasses":["ebook"],"name":"metaEbook","mtId":"13"},"iTunesPass":{"id":12,"cssClasses":["itunes-pass","album","music"],"name":"itunesPass","mtId":"1"},"Mix":{"id":14,"cssClasses":["mix","music"],"name":"mix","mtId":"1"},"TheyMix":{"id":33,"cssClasses":[],"name":"thirdPartyMix"}},"AddToWishlistResult":{"ItemIsFree":{"id":6},"ListFull":{"id":3},"SomeContentAlreadyOwnedButUnfulfilled":{"id":5},"SomeContentAlreadyInWishlist":{"id":1},"Success":{"id":0},"Failure":{"id":2},"SomeContentAlreadyOwned":{"id":4}},"getEmailUrl":"https://itunes.apple.com/WebObjects/MZStore.woa/wa/generateEmail?cc=de","resourceImagePathFrameworks":"https://s.mzstatic.com/htmlResources/904f/frameworks/images/","resourceBasePath":"https://s.mzstatic.com/htmlResources/904f"},"pageData":{},"properties":{"DAH.SharingMenu.WhitelistedServiceIds":["com.apple.share.Twitter.post","com.apple.share.Facebook.post","com.apple.share.Messages.compose"],"DAH.SharingMenu.HashTag":"#MacAppStore","DAH.SharingMenu.ServiceInfo":{"com.apple.share.Facebook.post":{"locKey":"DAH.SharingMenu.Facebook"},"com.apple.share.Twitter.post":{"locKey":"DAH.SharingMenu.Twitter"},"com.apple.share.Messages.compose":{"locKey":"DAH.SharingMenu.iChat"}},"clientStatsLoadTimeGroup":"4030","MZHtmlResourcesUtil.allowDeferJsLoad":true,"ITSServerEnvironment":"prod","ITSServerInstance":"107302","ITSResourceRevNum":"904f","resourceUrlPrefix":"https://s.mzstatic.com","ITSLogger.ServerReportingProtocol":"https","ITSLogger.ServerReportingDomain":"metrics.mzstatic.com","ITSLogger.ServerReportingApp":"MZUserXP","ITSLogger.RecordStatsAction":"recordStats","ITSLogger.SenderName":"ITSClient","ITSLogger.UseLegacyLogFormat":false,"ITSLogger.mirrorToServerByDefaultOnErrors":true,"DynaLoader.allowDynaLoading":true,"itsLoggerQueueProcessingInterval":10000,"cobaltBundleId":"com.apple.itunesu","getCobaltAppLink":"https://itunes.apple.com/de/app/id490217893","iTunesUEnrollLink":"https://itunes.apple.com/WebObjects/DZR.woa/wa/iTunesEnrollPopover?cc=de","cobaltLearnMore":"https://itunes.apple.com/de/learn-more?about=iTunesUUpgradePage&type=2","isCobaltEnabled":true,"isCobaltJavascriptRedirectEnabled":true,"isCobaltUpsellPageEnabled":true,"personalizedButtonsEnabled":true,"SF6.Personalization.isCMAEnabled":true,"SF6.Personalization.isCMSEnabled":true,"SFJ.isNFAEnabledInStorefront":true,"SFJ.isRecommendationsSwooshEnabledInStorefront":true,"SF6.StorePlatform.whitelistParams":["caller","dsid","id","p"],"vendLastSupportedVersionIfAvailable":true,"vendLastSupportedVersionMacOs":true,"isBookGiftingEnabled":true,"metrics":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"NWK"},"iTunes":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"NWK"}},"MacAppStore":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"NWK"}},"Maps":{"metricsUrl":"https://xp.apple.com/report","compoundSeparator":"_","tokenSeparator":"|","postFrequency":60000,"postFrequencyLowLatency":5000,"disabled":true,"appInstallSamplingPercentage":0.9995,"deResFields":[{"fieldName":"capacityData"},{"fieldName":"capacityDataAvailable"},{"fieldName":"capacityDisk"},{"fieldName":"capacitySystem"},{"fieldName":"capacitySystemAvailable"}],"impressions":{"viewableThreshold":1000,"viewablePercentage":0.5},"performance":{"samplingPercentageUsers":1,"samplingPercentageUsersPageRender":1,"samplingPercentageCachedResponses":1,"sessionDuration":60000,"sessionDurationPageRender":60000},"fieldsMap":{"single":{"targetId":["id","adamId","contentId","type","link.adamId","link.id","link.type","fcId","userPreference","label","station-hash","linkIdentifier"]},"custom":{"location":["id","adamId","dataSetId","name","fcKind","kindIds","type","link.type","station-hash","core-seed-name"],"impressions":["id","adamId","link.type","station-hash"],"iAd":[]},"cookies":["itcCt","itscc","xp_ab","xp_abc"],"multi":{}},"metricsBase":{"storeFrontHeader":"143443-4,13","language":"4","platformId":"13","platformName":"MacAppStore","storeFront":"143443","environmentDataCenter":"NWK"}}},"MZStore.shouldAttemptToEvaluateXpathSecondTime":true,"MZStore.shouldCacheElementTypeProtoObjects":true,"isStoweUpgradeDialogEnabled":false,"stoweUpgradeSize":1600000000,"isStopPageOneEnabled":false,"SF.isNotifyMeEnabled":false,"SF.notifyMeIds":[],"SF.notifyMeIdsWithAppleWatchApp":[],"SF.notifyMeIdsWithTvApp":[],"isMovieAnywhereEnabled":true}}</script>
+<script type="text/javascript" charset="utf-8">
+if (!window.iTSLocalization) { iTSLocalization = {}; }
+iTSLocalization._strings = {"Js.MyAlerts.GeniusActivationNeeded.Button":"Zu Genius", "DABuyButton.aria.accept":"Annehmen, @@name@@, Kostenlos", "DAH.SharingMenu.Twitter":"Auf Twitter teilen", "Js.Wishlist.RemoveTooltip":"Aus Wunschliste entfernen", "DABuyButtonAlreadyInstalledExplanation":"Möchtest du @@name@@ @@version@@ kaufen?", "MHJavascriptLocalizations.DIBuyButtonDownloading":"Wird geladen", "DAHSoftwareInstall.Status.EstimatedTime.LessThanAMinute":"weniger als eine Minute", "DAHSoftwareInstall.Status.EstimatedTime.SecondsLeft":"@@seconds@@ @@secondUnit@@", "Js.Showcase.Next":"Nächster Artikel", "Js.DA.BuyButton.Installed":"Installiert", "Js.PreflightCheckWarning.Continue":"Weiter", "DABuyButtonInstall":"App installieren", "DABuyButtonNewerVersionAlreadyInstalledMessage":"Eine neuere Version dieser App ist bereits auf diesem Computer installiert", "DAHSoftwareInstall.Status.Paused":"Gestoppt", "Js.CNConnections.Dialog.GetStarted":"Erste Schritte", "Js.ReportAConcern.SigninMessage":"Gib deine Apple-ID und dein Passwort ein und klicke dann auf „Anmelden“.", "DIBuyButtonDownloadingAria":"Lade „@@name@@“", "DABuyButton.aria.preOrder.buy":"Vorbestellen: @@name@@, @@price@@", "Js.TextTruncation.More":"Mehr", "Js.QuickView.Unavailable.Title":"Die Schnellansicht steht für diesen Artikel derzeit nicht zur Verfügung.", "CNConnections.Dialog.Post.Review.SignIn.Title":"Melden Sie sich an, um einen Beitrag zu posten.", "DAHSoftwareInstall.Status.EstimatedTime.hour":"Std.", "CNConnections.Upload.UploadErrorHeading":"Es gab ein Problem mit Ihrem Upload", "CNConnections.Dialog.StopFollowing.Message":"CNConnections.Dialog.StopFollowing.Message", "CNConnections.Dialog.OptIn.Title":"Ping ist ab dem 30. September nicht mehr verfügbar", "DIBuyButtonDownloadedAria":"Geladen, @@name@@", 
+"Js.MyAlerts.GeniusActivationNeeded.Explanation":"Benachrichtigungen basierend auf deinem Mediathek-Inhalt werden erst aktiviert, nachdem du Genius aktiviert hast. Klicke auf „Zu Genius“ um weitere Informationen dazu anzuzeigen.", "_thousandsSeparator":".", "InAppPurchases":"In-App-Käufe", "DAHSoftwareInstall.Status.EstimatedTime.DaysLeft":"@@days@@ @@dayUnit@@ @@hours@@ @@hourUnit@@", 
+"Js.CNConnections.LoginRequired.Message":"Hierfür ist Ping erforderlich. Ping wird ab dem 30.September nicht mehr verfügbar sein und es werden keine neuen Mitglieder mehr akzeptiert. Wenn Sie bereits ein Mitglied bei Ping sind, dann melden Sie sich unten an, um fortzufahren.", "Js.Pagination.PreviousPage":"Vorige Seite", "DAHSoftwareInstall.Status.Error.MultipleUsers.description":"Um das Update durchzuführen, melde alle Benutzer ab, die zur Zeit an diesem Computer angemeldet sind.", "Js.TellAFriend.SigninTitle":"Melde dich an, um dies Freunden zu empfehlen.", "Js.InlineReview.RateThis":"Bewerten", "Js.InlineReview.5":"Echt super", "DAHSoftwareInstall.Status.EstimatedTime.minutes":"Minuten", "Js.InlineReview.4":"Mag ich", "Js.InlineReview.3":"Ganz nett", "DABuyButtonPreOrdered":"Vorbestellt", "DAHSoftwareInstall.Status.EstimatedTime.second":"Sek.", "Js.InlineReview.2":"Eher nicht", "Js.InlineReview.1":"Schlecht", "Js.InlinePreview.StopPreview":"Vorschau von @@title@@ stoppen", "DAPreordersNotAvailableOnYourOS":"Aktualisiere auf macOS 10.13.2 oder neuer, um diese App vorzubestellen.", "DAHSoftwareInstall.Status.WaitingToInstall":"Zur Installation anstehend ...", "DABuyButtonAlreadyInstalledNoVersionMessage":"@@installedname@@ ist bereits installiert und wurde nicht im Mac App Store gekauft.", "Close":"Schließen", "CNConnections.Dialog.OptIn.Message":"CNConnections.Dialog.OptIn.Message", "Js.DA.BuyButton.Open":"Öffnen", "Js.CreateAccount":"Apple-ID erstellen", "DAHSoftwareInstall.Status.EstimatedTime.hours":"Stdn.", "MZCommerce.Login_explanation":"Gib deine Apple-ID und das Passwort ein und klicke auf „Anmelden“.", "Js.CNConnections.OptInRequired.Title":"Ping", "Cancel":"Abbrechen", "DAHSoftwareInstall.Status.EstimatedTime.seconds":"Sekunden", "DABuyButton.aria.installed":"Installiert, @@name@@", "DABuyButton.aria.preOrder.free":"Vorbestellen: @@name@@, kostenlos", "Js.ManageArtistAlerts.CheckAll.Actors":"Alle Schauspieler markieren", "SF.AskToBuy.PermissionBannerText":"Deine Anfrage wurde gesendet und die Genehmigung eines Elternteils steht noch aus. Deine Eltern können auch auf diesem Gerät @@bannerLinkText@@.", "DABuyButtonSameVersionAlreadyInstalledExplanation":"Möchtest du @@name@@ @@version@@ erneut kaufen?", "DAHSoftwareInstall.Status.FileSizeSeparator":",", "DAPreorderLabel":"Vorbestellen", "More":"Mehr", "DAHSoftwareInstall.Status.EstimatedTime.minute":"Min.", "DABuyButtonPreOrder":"Vorbestellen", "Js.Pagination.DisabledButtonText":"@@button_text@@ deaktiviert", "Js.DA.BuyButton.Installing":"Installieren", "Js.MyAlerts.CancelEmailSignUp.Message":"Möchtest du wirklich keine E-Mail-Updates mehr erhalten?", "JS.errors.requiredLite":"Fülle alle Pflichtfelder aus.", "CNConnections.Dialog.Post.Review.SignIn.Message":"CNConnections.Dialog.Post.Review.SignIn.Message", "SF.AskToBuy.PermissionBannerText.Free.bannerLinkText":"persönlich genehmigen", "MZCommerce.PurchaseBlockedForSpecialEdu_message":"Diese Apple-ID kann nicht zum Einkaufen verwendet werden.", "Js.ManageArtistAlerts.UncheckAll.Artists":"Markierung für alle Interpreten entfernen", "Buy":"Kaufen", "Js.InlineRating.SigninTitle":"Melde dich an, um eine Bewertung abzugeben.", "Js.ManageArtistAlerts.UncheckAll.Actors":"Markierung für alle Schauspieler entfernen", "MHJavascriptLocalizations.DIBuyButtonDownload":"Laden", 
+"Js.CNConnections.OptInRequired.Message":"Hierfür ist Ping erforderlich. Ping wird ab dem 30.September nicht mehr verfügbar sein und es werden keine neuen Mitglieder mehr akzeptiert. Wenn Sie bereits ein Mitglied bei Ping sind, dann melden Sie sich unten an, um fortzufahren.", "DAHSoftwareInstall.Status.Downloading":"@@completed@@ von @@total@@", "DABuyButtonLearnMoreURL.Mavericks":"http://support.apple.com/kb/HT5842?viewlocale=de_DE", "DABuyButtonLearnMoreURL.Lion":"http://support.apple.com/kb/HT4949?viewlocale=de_DE", "DAHSoftwareInstall.Status.EstimatedTime.HoursLeft":"@@hours@@ @@hourUnit@@ @@minutes@@ @@minuteUnit@@", "Js.Search.HintsTitle":"Vorschläge", "DAHSoftwareInstall.Status.EstimatedTime.MinutesLeft":"@@minutes@@ @@minuteUnit@@", "DABuyButtonLearnMoreURL.MtnLion":"http://support.apple.com/kb/HT5444?viewlocale=de_DE", "DAHSoftwareInstall.Status.Error.MultipleUsers":"Mehrere Benutzer angemeldet", "Js.InlinePreview.PlayPreview":"Vorschau von @@title@@ starten", "SignIn":"Anmelden", "DAHSoftwareInstall.Status.Error":"Es ist ein Fehler aufgetreten", "Js.ManageArtistAlerts.UncheckAll":"Alle entfernen", "Js.iTunesStoreError.Message":"Deine Anfrage konnte nicht abgeschlossen werden.", "DVHMusicPurchasesPage.Restored":"Eingeblendet", "DAHSoftwareInstall.Status.Waiting":"Warten...", "Done":"Fertig", "DABuyButton.aria.open":"Öffnen, @@name@@", "Js.Pagination.NextPage":"Nächste Seite", "Js.CNConnections.RequestSent":"Antrag gesendet", "MHJavascriptLocalizations.DIBuyButtonDownloaded":"Geladen", "DABuyButton.aria.install":"Installieren, @@name@@, gratis", "DABuyButtonLearnMore":"Weitere Informationen", "DAH.SharingMenu.iChat":"In Nachrichten teilen", "CNConnections.Upload.UploadErrorMessage":"Während des Uploads ist ein Fehler aufgetreten.", "Js.PreflightCheckFailedError.UpdateTitle":"Wir konnten Ihre Aktualisierung nicht abschließen. ", "Js.InlineReview.SigninMessage":"Gib deine Apple-ID und dein Passwort ein und klicke dann auf „Anmelden“.", "Js.PreflightCheckFailedError.Message":"Dieser Computer besitzt nicht die minimalen Systemanforderungen für die Installation dieser App", "Software.HasAddOns":"In-App-Käufe möglich", "Less":"Weniger", "Js.MyAlerts.GeniusActivationNeeded.Message":"Dazu benötigst du Genius.", "Js.ManageArtistAlerts.CheckAll.Artists":"Alle Interpreten markieren", "Js.TellAFriend.SigninMessage":"Gib deine Apple-ID und dein Passwort ein und klicke dann auf „Anmelden“.", "CNConnections.Dialog.StopFollowing.Title":"Möchten Sie @@fullName@@ wirklich nicht mehr folgen?", "Js.PreflightCheckFailedErrorWithAppName.Title":"Dein Kauf von „@@appName@@“ konnte nicht abgeschlossen werden", "DTHBuyInfo.actionText.Accept":"Akzeptieren", "Js.PreflightCheckFailedError.Title":"Dein Kauf konnte nicht abgeschlossen werden.", "Js.InlineReview.SigninTitle":"Melde dich an, um eine Rezension zu schreiben.", "Js.InlineRating.SigninMessage":"Melde dich an, um fortzufahren.", "DAHSoftwareInstall.Status.EstimatedTime.TimeLeft":"@@time@@ verbleibend", "Js.DA.BuyButton.Install":"Installieren", "DABuyButton.aria.confirm.buy":"Bestätigen, kaufen, @@name@@, @@price@@", "DAHSoftwareInstall.Status.EstimatedTime.days":"Tage", "Js.Pagination.Back":"Zurück", "DABuyButton.aria.installing":"Installation, @@name@@", "DTHBuyInfo.actionText.Gratis":"Gratis", "CNConnections.Dialog.PrivateUser.IllegalAction.Message":"Sie müssen Ihre Datenschutzeinstellungen ändern, um diese Aktion ausführen zu können.", "DAPreorderedLabel":"Vorbestellt", "DAHSoftwareInstall.Status.EstimatedTime.day":"Tag", "DVHMusicPurchasesPage.Restore":"Einblenden", "DABuyButton.aria.confirm.install":"Bestätigen, installieren, @@name@@, gratis", "DAHSoftwareInstall.Status.Installing":"Installieren", "Js.QuickView.Unavailable.Text":"Bitte später erneut versuchen.", "Js.MyAlerts.ConfirmEmailSignUp.Explanation":"Du kannst diese Voreinstellung jederzeit auf deiner Updates-Seite ändern.", "Js.CNConnections.Dialog.Cancel":"Abbrechen", "Js.CNConnections.PeoplePopupMore":"und @@count@@ weitere ...", "Js.CNConnections.Confirmed":"Bestätigt", "Js.CNConnections.UserReview.YouLiked":"Ihnen gefällt", "MHJavascriptLocalizations.DIBuyButtonUpdate":"Updaten", "Yes":"Ja", "Js.Pagination.Next":"Weiter", "DABuyButton.aria.preOrdered":"Vorbestellt: @@name@@", "Js.ManageArtistAlerts.CheckAll":"Alle markieren", "Js.ReportAConcern.SigninTitle":"Melde dich an, um ein Anliegen zu melden.", "Js.MyAlerts.CancelEmailSignUp.Explanation":"Du kannst diese Voreinstellung jederzeit auf deiner Updates-Seite ändern.", "CNConnections.Dialog.PrivateUser.LeakyAction.Message":"Durch Ausführen dieser Aktion können andere Benutzer Ihr Profilfoto und Ihren Namen sehen.", "Js.TextLimit.Remaining":"Noch @@count@@ Zeichen", "CNConnections.Dialog.PrivateUser.LeakyAction.Title":"Möchten Sie diese Aktion wirklich durchführen?", "DABuyButtonBuyNow":"App kaufen", "Js.Pagination.PageNumberTitle":"seite @@num@@", "DABuyButtonPreOrderedAllCaps":"VORBESTELLT", "SF.AskToBuy.PermissionBannerText.bannerLinkText":"persönlich kaufen", "OK":"OK", "Js.InlineReview.Thanks":"Danke!", "Js.InlineReview.Error":"Fehler", "CNConnections.Dialog.Like.Review.SignIn.Message":"CNConnections.Dialog.Like.Review.SignIn.Message", "Js.List.Item":"Artikel", "DABuyButtonAlreadyInstalledMessage":"@@installedname@@ @@installedversion@@ ist bereits installiert und wurde nicht im Mac App Store gekauft", "No":"Nein", "Js.iTunesStoreError.Explanation":"Im App Store ist ein Fehler aufgetreten. Versuche es später erneut.", "Js.InlineReview.ClickToRate":"Zur Bewertung hier klicken", "DABuyButtonNewerVersionAlreadyInstalledExplanation":"Falls du die App durch diese Version ersetzen möchtest, verschiebe die vorhandene App in den Papierkorb.", "CNConnections.Dialog.PrivateUser.IllegalAction.Title":"Private Benutzer können diese Aktion nicht ausführen.", "DABuyButton.aria.buy":"Kaufen, @@name@@, @@price@@", "Js.MyAlerts.ConfirmEmailSignUp.Message":"Möchtest du wirklich E-Mail-Updates erhalten?", "CNConnections.Dialog.OptIn.ButtonSubmit":"Mehr Infos", "_decimalSeparator":",", "CNConnections.Dialog.OptIn.ButtonCancel":"Abbrechen", "MZCommerce.Login_message":"Anmelden", "DIBuyButtonRedownloadAria":"@@name@@ laden, kostenlos", "Js.CNConnections.LoginRequired.Title":"Anmelden, um auf Ping zuzugreifen", "CNConnections.Dialog.OptIn.ButtonSignIn":"Anmelden", "Js.Pagination.PageNumber":"Seite @@num@@", "DAHSoftwareInstall.Status.EstimatedTime.Calculating":"Berechnen...", "DAH.SharingMenu.Facebook":"Auf Facebook posten", "DIBuyButtonUpdateAria":"Aktualisieren, @@name@@", "CNConnections.Dialog.Like.Review.SignIn.Title":"Melden Sie sich an um eine Rezension mit „Gefällt mir“ zu markieren.", "Js.PreflightCheckWarning.Title":"Möchtest du fortfahren?", "CNConnections.Upload.MaxPhotosErrorMessage":"Ein Beitrag darf nicht mehr als 20 Fotos enthalten."}
+</script>
+
+<script type="text/javascript" charset="utf-8" src="/htmlResources/904f/da-storefront-base.js"></script>
+<script type="text/javascript" charset="utf-8" src="/htmlResources/904f/da-storefront-sharing.js"></script>
+
+
+
+
+
+
+
+</head>
+
+  <body data-country="deu" buy-button-metadata-url="https://se-edge.itunes.apple.com/WebObjects/MZStoreElements.woa/wa/buyButtonMetaData" class="deu de search">
+  <script type="text/javascript">
+    if (window['iTSKit']) { iTSKit.preLoad(); }
+    if (window.its && its.kit) { its.kit.preload(); }
+  </script>
+
+  
+
+  
+  <div id="page">
+    <div id="wrapper">
+
+      <div id="content">
+
+        <div class="background"></div>
+
+        
+
+        
+
+        
+
+    <div class="columns">
+      <div class="main">
+
+        
+          
+
+          
+          <div display-page-number-separately="true" page-number-parameter="page" pill-identifier-parameter="pill" sort-key-parameter="sortOrdering" goto-page-href="https://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?cc=de&pageCount=120&q=imovie" class="lockup-container paginate application mac-application numbered">
+  <div class="title">
+    <h2>Suchergebnisse für „imovie“</h2>
+    
+    
+    	
+	  
+    
+    <div class="select sort-controls">
+  <label>
+    <span>Sortieren nach:</span>
+    <select metrics-loc="Selector">
+      
+        <option value="10" metrics-loc="Relevanz">
+          Relevanz
+        </option>
+      
+        <option value="6" metrics-loc="Beliebtheit">
+          Beliebtheit
+        </option>
+      
+        <option value="2" metrics-loc="Erscheinungsdatum">
+          Erscheinungsdatum
+        </option>
+      
+        <option value="13" metrics-loc="Kundenbewertung">
+          Kundenbewertung
+        </option>
+      
+    </select>
+  </label>
+</div>
+    
+  </div>
+  <div class="content-and-controls">
+    <div class="paginated-container">
+      <div page-number="1" sort-key pill-identifier="0" total-number-of-pages="1" class="paginated-content"><div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="iMovie" adam-id="408981434" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/imovie/id408981434?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/29/df/c4/29dfc45b-5b7a-3a87-fd93-e6e7ea8f2fa7/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/29/df/c4/29dfc45b-5b7a-3a87-fd93-e6e7ea8f2fa7/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/imovie/id408981434?mt=12">iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"><div class='rating' role='img' tabindex='-1' aria-label='Drei Sterne, 257 Bewertungen'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">257 Bewertungen</span>
+</div>
+</li><li><div class="editorial-badge small">Essentials</div></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button is-free-download="1" update-buy-params="productType=C&amp;price=0&amp;salableAdamId=408981434&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=826237711" dont-ask-same-minor-version-installed="1" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/imovie/id408981434?mt=12&#34;}" minimumOSVersion="10.13.2" bundle-id="com.apple.iMovieApp" original-price="Laden" preflight="http://osxapps.itunes.apple.com/itunes-assets/Purple128/v4/8b/ac/1a/8bac1af3-087e-4db2-5476-54e3fd6ff58b/signed.dcr.6600558158019975464.pfpkg" versionID="826237711" adam-id="408981434" dk-id="30" item-name="iMovie" buy-params="productType=C&amp;price=0&amp;salableAdamId=408981434&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=826237711" version-string="10.1.9" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/29/df/c4/29dfc45b-5b7a-3a87-fd93-e6e7ea8f2fa7/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">Laden</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>Laden</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/imovie/id408981434?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=408981434&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Final Cut Pro" adam-id="424389933" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/final-cut-pro/id424389933?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Final Cut Pro" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/81/7f/5b/817f5be8-c263-98ac-a42d-c70de06039b8/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/81/7f/5b/817f5be8-c263-98ac-a42d-c70de06039b8/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/final-cut-pro/id424389933?mt=12">Final Cut Pro</a></li><li class="genre">Video</li><li class="customer-ratings"><div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne, 105 Bewertungen'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">105 Bewertungen</span>
+</div>
+</li><li><div class="editorial-badge small">Essentials</div></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=424389933&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=826808281" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/final-cut-pro/id424389933?mt=12&#34;}" minimumOSVersion="10.13.2" bundle-id="com.apple.FinalCut" original-price="329,99 €" preflight="http://osxapps.itunes.apple.com/itunes-assets/Purple118/v4/53/33/63/533363ba-d529-903e-da5a-9e7fc9b1d543/signed.dcr.7885969584764099870.pfpkg" versionID="826808281" adam-id="424389933" dk-id="30" item-name="Final Cut Pro" buy-params="productType=C&amp;price=329990&amp;salableAdamId=424389933&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=826808281" version-string="10.4.2" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/81/7f/5b/817f5be8-c263-98ac-a42d-c70de06039b8/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">329,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>329,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Final Cut Pro">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/final-cut-pro/id424389933?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=424389933&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="MovieDrops HD for iMovie and for Final Cut Pro" adam-id="495987485" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/moviedrops-hd-for-imovie-and-for-final-cut-pro/id495987485?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="MovieDrops HD for iMovie and for Final Cut Pro" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/c2/73/25/c273255f-9c7b-bd83-aa03-7af6a455c0ab/source/150x150bb.png" src-swap="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/c2/73/25/c273255f-9c7b-bd83-aa03-7af6a455c0ab/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/moviedrops-hd-for-imovie-and-for-final-cut-pro/id495987485?mt=12">MovieDrops HD for iMovie and for Final Cut Pro</a></li><li class="genre">Video</li><li class="customer-ratings"><div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne, 8 Bewertungen'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">8 Bewertungen</span>
+</div>
+</li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=495987485&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=5957007" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/moviedrops-hd-for-imovie-and-for-final-cut-pro/id495987485?mt=12&#34;}" minimumOSVersion="10.6" bundle-id="de.totalmotion.moviedrops" original-price="8,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/d4/22/b0/d422b03e-5e59-ddd9-b5e1-51a9e7ec853b/encrypted7259752198127484924.pfpkg" versionID="5957007" adam-id="495987485" dk-id="30" item-name="MovieDrops HD for iMovie and for Final Cut Pro" buy-params="productType=C&amp;price=8990&amp;salableAdamId=495987485&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=5957007" version-string="1.0" large-icon="https://is2-ssl.mzstatic.com/image/thumb/Purple/v4/c2/73/25/c273255f-9c7b-bd83-aa03-7af6a455c0ab/source/175x175bb.jpg" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">8,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>8,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r MovieDrops HD for iMovie and for Final Cut Pro">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/moviedrops-hd-for-imovie-and-for-final-cut-pro/id495987485?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=495987485&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Lessons for iMovie" adam-id="855724960" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/lessons-for-imovie/id855724960?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Lessons for iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/c6/62/7e/c6627e4c-dc31-0d7b-b505-6c4464f1046e/source/150x150bb.png" src-swap="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/c6/62/7e/c6627e4c-dc31-0d7b-b505-6c4464f1046e/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/lessons-for-imovie/id855724960?mt=12">Lessons for iMovie</a></li><li class="genre">Bildung</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button is-free-download="1" update-buy-params="productType=C&amp;price=0&amp;salableAdamId=855724960&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=817484276" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/lessons-for-imovie/id855724960?mt=12&#34;}" minimumOSVersion="10.9" hasInAppPurchases="1" bundle-id="com.rippletraining.learningimovie" original-price="Laden" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple20/v4/47/01/b2/4701b206-222b-1f41-dede-f55057afccb2/signed.dcr.8696333851528687760.pfpkg" versionID="817484276" adam-id="855724960" dk-id="30" item-name="Lessons for iMovie" buy-params="productType=C&amp;price=0&amp;salableAdamId=855724960&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=817484276" version-string="2.2.4" large-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple18/v4/c6/62/7e/c6627e4c-dc31-0d7b-b505-6c4464f1046e/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">Laden</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>Laden</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Lessons for iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/lessons-for-imovie/id855724960?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=855724960&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Course for Intro to iMovie" adam-id="733989909" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/course-for-intro-to-imovie/id733989909?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Course for Intro to iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/5f/f6/8a/5ff68a3b-4e79-0bb8-3ae9-9f4632bdf283/source/150x150bb.png" src-swap="https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/5f/f6/8a/5ff68a3b-4e79-0bb8-3ae9-9f4632bdf283/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/course-for-intro-to-imovie/id733989909?mt=12">Course for Intro to iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button is-free-download="1" update-buy-params="productType=C&amp;price=0&amp;salableAdamId=733989909&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=812205139" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/course-for-intro-to-imovie/id733989909?mt=12&#34;}" minimumOSVersion="10.9" bundle-id="com.nonlineareducating.AOM000846" original-price="Laden" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/2f/b0/3a/2fb03ae6-0190-1526-af97-4ea2c44baf5b/encrypted5031100676469015996.pfpkg" versionID="812205139" adam-id="733989909" dk-id="30" item-name="Course for Intro to iMovie" buy-params="productType=C&amp;price=0&amp;salableAdamId=733989909&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=812205139" version-string="2.0.2" large-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/5f/f6/8a/5ff68a3b-4e79-0bb8-3ae9-9f4632bdf283/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">Laden</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>Laden</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Course for Intro to iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/course-for-intro-to-imovie/id733989909?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=733989909&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Tutor for iMovie '11" adam-id="416624070" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/tutor-for-imovie-11/id416624070?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Tutor for iMovie &apos;11" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/18/4f/6c/184f6c9c-becf-12c5-f7a2-3716ae658683/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/18/4f/6c/184f6c9c-becf-12c5-f7a2-3716ae658683/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/tutor-for-imovie-11/id416624070?mt=12">Tutor for iMovie '11</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=416624070&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=135192662" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/tutor-for-imovie-11/id416624070?mt=12&#34;}" minimumOSVersion="10.6" bundle-id="com.noteboomproductions.tutorforimovie" original-price="10,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple69/v4/59/ab/87/59ab877e-d3a9-a0e8-384a-87975eb7c565/encrypted6812117702967167745.pfpkg" versionID="135192662" adam-id="416624070" dk-id="30" item-name="Tutor for iMovie &#39;11" buy-params="productType=C&amp;price=10990&amp;salableAdamId=416624070&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=135192662" version-string="1.32" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/18/4f/6c/184f6c9c-becf-12c5-f7a2-3716ae658683/source/175x175bb.jpg" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">10,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>10,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Tutor for iMovie '11">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/tutor-for-imovie-11/id416624070?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=416624070&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Course For iMovie '11 101 - Core iMovie '11" adam-id="447474913" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/course-for-imovie-11-101-core-imovie-11/id447474913?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Course For iMovie &apos;11 101 - Core iMovie &apos;11" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/f5/92/eb/f592eb6d-98f2-627a-741b-937ea413c1e2/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/f5/92/eb/f592eb6d-98f2-627a-741b-937ea413c1e2/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/course-for-imovie-11-101-core-imovie-11/id447474913?mt=12">Course For iMovie '11 101 - Core iMovie '11</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=447474913&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=8287721" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/course-for-imovie-11-101-core-imovie-11/id447474913?mt=12&#34;}" minimumOSVersion="10.7" bundle-id="com.appomator.AOM000311" original-price="14,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/5e/fb/1e/5efb1e27-ea61-54a3-8996-1c8aefb4b2dc/encrypted8335155259808936715.pfpkg" versionID="8287721" adam-id="447474913" dk-id="30" item-name="Course For iMovie &#39;11 101 - Core iMovie &#39;11" buy-params="productType=C&amp;price=14990&amp;salableAdamId=447474913&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=8287721" version-string="1.1" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple/v4/f5/92/eb/f592eb6d-98f2-627a-741b-937ea413c1e2/source/175x175bb.jpg" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">14,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>14,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Course For iMovie '11 101 - Core iMovie '11">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/course-for-imovie-11-101-core-imovie-11/id447474913?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=447474913&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Course For iMovie - Trimming, Titles, Transitions &amp; Trailers" adam-id="982388492" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/course-for-imovie-trimming-titles-transitions-trailers/id982388492?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Course For iMovie - Trimming, Titles, Transitions &amp; Trailers" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/3e/4b/ef/3e4bef3a-a513-367a-be45-bdbe22ca433a/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/3e/4b/ef/3e4bef3a-a513-367a-be45-bdbe22ca433a/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/course-for-imovie-trimming-titles-transitions-trailers/id982388492?mt=12">Course For iMovie - Trimming, Titles, Transitions &amp; Trailers</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=982388492&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=812137731" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/course-for-imovie-trimming-titles-transitions-trailers/id982388492?mt=12&#34;}" minimumOSVersion="10.9" bundle-id="com.nonlineareducating.x.imovie103" original-price="14,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple69/v4/12/5f/de/125fdef1-cc93-cc79-f93f-90fd89e91cd7/encrypted6914494932857790987.pfpkg" versionID="812137731" adam-id="982388492" dk-id="30" item-name="Course For iMovie - Trimming, Titles, Transitions &amp; Trailers" buy-params="productType=C&amp;price=14990&amp;salableAdamId=982388492&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=812137731" version-string="2.0.2" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/3e/4b/ef/3e4bef3a-a513-367a-be45-bdbe22ca433a/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">14,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>14,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Course For iMovie - Trimming, Titles, Transitions &amp; Trailers">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/course-for-imovie-trimming-titles-transitions-trailers/id982388492?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=982388492&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Erste Schritte f&uuml;r iMovie auf iOS" adam-id="944384899" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/erste-schritte-f%C3%BCr-imovie-auf-ios/id944384899?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Erste Schritte für iMovie auf iOS" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/9a/76/74/9a7674c2-28eb-6fcc-da7d-0408ac4e88a8/source/150x150bb.png" src-swap="https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/9a/76/74/9a7674c2-28eb-6fcc-da7d-0408ac4e88a8/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/erste-schritte-f%C3%BCr-imovie-auf-ios/id944384899?mt=12">Erste Schritte für iMovie auf iOS</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=944384899&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=811768203" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/erste-schritte-f%C3%BCr-imovie-auf-ios/id944384899?mt=12&#34;}" minimumOSVersion="10.10" bundle-id="com.mosamotiongraphics.PrepForMac" original-price="10,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/e2/6c/b6/e26cb695-cd36-ab67-9695-f2d24ab6aeff/encrypted5313382960275318806.pfpkg" versionID="811768203" adam-id="944384899" dk-id="30" item-name="Erste Schritte für iMovie auf iOS" buy-params="productType=C&amp;price=10990&amp;salableAdamId=944384899&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=811768203" version-string="1.1" large-icon="https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/9a/76/74/9a7674c2-28eb-6fcc-da7d-0408ac4e88a8/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">10,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>10,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Erste Schritte f&uuml;r iMovie auf iOS">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/erste-schritte-f%C3%BCr-imovie-auf-ios/id944384899?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=944384899&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Learn - iMovie 10 Edition" adam-id="772117255" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/learn-imovie-10-edition/id772117255?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Learn - iMovie 10 Edition" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/44/da/2c/44da2c25-0743-6910-4ea3-76d1dda73d05/source/150x150bb.png" src-swap="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/44/da/2c/44da2c25-0743-6910-4ea3-76d1dda73d05/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/learn-imovie-10-edition/id772117255?mt=12">Learn - iMovie 10 Edition</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=772117255&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=366122672" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/learn-imovie-10-edition/id772117255?mt=12&#34;}" minimumOSVersion="10.7" bundle-id="com.thmacu.imovie" original-price="6,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple69/v4/6a/bd/21/6abd2150-8a8e-fc94-be93-6edac0cf86ed/encrypted4702903044727922103.pfpkg" versionID="366122672" adam-id="772117255" dk-id="30" item-name="Learn - iMovie 10 Edition" buy-params="productType=C&amp;price=6990&amp;salableAdamId=772117255&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=366122672" version-string="3.1.1" large-icon="https://is4-ssl.mzstatic.com/image/thumb/Purple6/v4/44/da/2c/44da2c25-0743-6910-4ea3-76d1dda73d05/source/175x175bb.jpg" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">6,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>6,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Learn - iMovie 10 Edition">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/learn-imovie-10-edition/id772117255?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=772117255&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Tutorials for iMovie" adam-id="767533911" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/tutorials-for-imovie/id767533911?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Tutorials for iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/c1/79/2b/c1792b77-15e0-7020-8138-6760e5d06bb1/source/150x150bb.png" src-swap="https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/c1/79/2b/c1792b77-15e0-7020-8138-6760e5d06bb1/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/tutorials-for-imovie/id767533911?mt=12">Tutorials for iMovie</a></li><li class="genre">Bildung</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=767533911&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=401972668" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/tutorials-for-imovie/id767533911?mt=12&#34;}" minimumOSVersion="10.6.6" bundle-id="co.jameskelly.imovietutorials" original-price="10,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/23/09/20/230920b0-7ee0-91d3-97a1-1b1b849a29cc/encrypted607076655965077008.pfpkg" versionID="401972668" adam-id="767533911" dk-id="30" item-name="Tutorials for iMovie" buy-params="productType=C&amp;price=10990&amp;salableAdamId=767533911&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=401972668" version-string="1.2" large-icon="https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/c1/79/2b/c1792b77-15e0-7020-8138-6760e5d06bb1/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">10,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>10,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Tutorials for iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/tutorials-for-imovie/id767533911?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=767533911&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Clips FX for iMovie" adam-id="490427273" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/clips-fx-for-imovie/id490427273?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Clips FX for iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/b8/db/fd/b8dbfd3c-d516-bd37-52df-8e15b5e168a5/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/b8/db/fd/b8dbfd3c-d516-bd37-52df-8e15b5e168a5/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/clips-fx-for-imovie/id490427273?mt=12">Clips FX for iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=490427273&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=734996375" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/clips-fx-for-imovie/id490427273?mt=12&#34;}" minimumOSVersion="10.7" bundle-id="com.mosamotiongraphics.ClipsFX" original-price="8,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple69/v4/fe/84/05/fe8405c6-03f8-2615-5e8b-6b7883f387b9/encrypted1166072673499188594.pfpkg" versionID="734996375" adam-id="490427273" dk-id="30" item-name="Clips FX for iMovie" buy-params="productType=C&amp;price=8990&amp;salableAdamId=490427273&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=734996375" version-string="2.1" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/b8/db/fd/b8dbfd3c-d516-bd37-52df-8e15b5e168a5/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">8,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>8,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Clips FX for iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/clips-fx-for-imovie/id490427273?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=490427273&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Edit8 Audio Sync Pro for iMovie-PP-FCPX" adam-id="1220986982" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/edit8-audio-sync-pro-for-imovie-pp-fcpx/id1220986982?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Edit8 Audio Sync Pro for iMovie-PP-FCPX" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/ca/e6/5ecae697-3a73-c490-72fc-fcf62008ceef/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/ca/e6/5ecae697-3a73-c490-72fc-fcf62008ceef/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/edit8-audio-sync-pro-for-imovie-pp-fcpx/id1220986982?mt=12">Edit8 Audio Sync Pro for iMovie-PP-FCPX</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button is-free-download="1" update-buy-params="productType=C&amp;price=0&amp;salableAdamId=1220986982&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=821548343" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/edit8-audio-sync-pro-for-imovie-pp-fcpx/id1220986982?mt=12&#34;}" minimumOSVersion="10.10" bundle-id="edit8.audiosynchronization" original-price="Laden" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple111/v4/16/95/a3/1695a39a-e18d-9574-ac0d-2e9e081b56f0/signed.dcr.7851991204580407642.pfpkg" versionID="821548343" adam-id="1220986982" dk-id="30" item-name="Edit8 Audio Sync Pro for iMovie-PP-FCPX" buy-params="productType=C&amp;price=0&amp;salableAdamId=1220986982&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=821548343" version-string="1.0" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/ca/e6/5ecae697-3a73-c490-72fc-fcf62008ceef/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">Laden</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>Laden</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Edit8 Audio Sync Pro for iMovie-PP-FCPX">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/edit8-audio-sync-pro-for-imovie-pp-fcpx/id1220986982?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=1220986982&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Course For iMovie 101 - Getting Started With Your Footage" adam-id="735255637" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/course-for-imovie-101-getting-started-with-your-footage/id735255637?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Course For iMovie 101 - Getting Started With Your Footage" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/12/b1/fe/12b1fec9-12ec-d473-703c-26554f7daf7c/source/150x150bb.png" src-swap="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/12/b1/fe/12b1fec9-12ec-d473-703c-26554f7daf7c/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/course-for-imovie-101-getting-started-with-your-footage/id735255637?mt=12">Course For iMovie 101 - Getting Started With Your Footage</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=735255637&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=86792934" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/course-for-imovie-101-getting-started-with-your-footage/id735255637?mt=12&#34;}" minimumOSVersion="10.9" bundle-id="com.nonlineareducating.AOM000849" original-price="14,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/ee/d8/8e/eed88ec8-71a8-f7f4-4839-380c402e2334/encrypted943889740629191923.pfpkg" versionID="86792934" adam-id="735255637" dk-id="30" item-name="Course For iMovie 101 - Getting Started With Your Footage" buy-params="productType=C&amp;price=14990&amp;salableAdamId=735255637&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=86792934" version-string="2.0.2" large-icon="https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/12/b1/fe/12b1fec9-12ec-d473-703c-26554f7daf7c/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">14,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>14,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Course For iMovie 101 - Getting Started With Your Footage">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/course-for-imovie-101-getting-started-with-your-footage/id735255637?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=735255637&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Clips 3D f&uuml;r iMovie und Final Cut" adam-id="645633897" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/clips-3d-f%C3%BCr-imovie-und-final-cut/id645633897?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Clips 3D für iMovie und Final Cut" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6b/52/5b/6b525b00-cf48-5560-8570-f75a280510bd/source/150x150bb.png" src-swap="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6b/52/5b/6b525b00-cf48-5560-8570-f75a280510bd/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/clips-3d-f%C3%BCr-imovie-und-final-cut/id645633897?mt=12">Clips 3D für iMovie und Final Cut</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=645633897&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=740902787" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/clips-3d-f%C3%BCr-imovie-und-final-cut/id645633897?mt=12&#34;}" minimumOSVersion="10.7" bundle-id="com.mosamotiongraphics.Clips3D2" original-price="7,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/25/02/8c/25028c67-efc1-26be-960c-2524c604b62b/encrypted4889129808786477511.pfpkg" versionID="740902787" adam-id="645633897" dk-id="30" item-name="Clips 3D für iMovie und Final Cut" buy-params="productType=C&amp;price=7990&amp;salableAdamId=645633897&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=740902787" version-string="2.3" large-icon="https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/6b/52/5b/6b525b00-cf48-5560-8570-f75a280510bd/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">7,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>7,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Clips 3D f&uuml;r iMovie und Final Cut">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/clips-3d-f%C3%BCr-imovie-und-final-cut/id645633897?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=645633897&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Backups for iMovie" adam-id="1064870190" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/backups-for-imovie/id1064870190?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Backups for iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is4-ssl.mzstatic.com/image/thumb/Purple20/v4/f2/33/b5/f233b586-6767-bdf3-3624-f9c70ee0606b/source/150x150bb.png" src-swap="https://is4-ssl.mzstatic.com/image/thumb/Purple20/v4/f2/33/b5/f233b586-6767-bdf3-3624-f9c70ee0606b/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/backups-for-imovie/id1064870190?mt=12">Backups for iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=1064870190&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=817760893" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/backups-for-imovie/id1064870190?mt=12&#34;}" minimumOSVersion="10.6" bundle-id="com.meamobile.BackupsForiMovie" original-price="10,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple18/v4/30/ff/6b/30ff6b7b-9009-94df-8e2a-8bac923804e0/signed.dcr.1896334178021658703.pfpkg" versionID="817760893" adam-id="1064870190" dk-id="30" item-name="Backups for iMovie" buy-params="productType=C&amp;price=10990&amp;salableAdamId=1064870190&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=817760893" version-string="1.0.1" large-icon="https://is4-ssl.mzstatic.com/image/thumb/Purple20/v4/f2/33/b5/f233b586-6767-bdf3-3624-f9c70ee0606b/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">10,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>10,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Backups for iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/backups-for-imovie/id1064870190?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=1064870190&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="NYC TimeLapse f&uuml;r iMovie und FCPX" adam-id="717368886" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/nyc-timelapse-f%C3%BCr-imovie-und-fcpx/id717368886?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="NYC TimeLapse für iMovie und FCPX" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/4b/d3/85/4bd385d1-5bf7-855e-89a3-3c549358d0fa/source/150x150bb.png" src-swap="https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/4b/d3/85/4bd385d1-5bf7-855e-89a3-3c549358d0fa/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/nyc-timelapse-f%C3%BCr-imovie-und-fcpx/id717368886?mt=12">NYC TimeLapse für iMovie und FCPX</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=717368886&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=66412656" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/nyc-timelapse-f%C3%BCr-imovie-und-fcpx/id717368886?mt=12&#34;}" minimumOSVersion="10.7" bundle-id="com.mosamotiongraphics.NYC-TL" original-price="13,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/92/36/74/923674f6-2df8-444b-bd03-91805458dc3d/encrypted1399035115452755876.pfpkg" versionID="66412656" adam-id="717368886" dk-id="30" item-name="NYC TimeLapse für iMovie und FCPX" buy-params="productType=C&amp;price=13990&amp;salableAdamId=717368886&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=66412656" version-string="1.0" large-icon="https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/4b/d3/85/4bd385d1-5bf7-855e-89a3-3c549358d0fa/source/175x175bb.jpg" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">13,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>13,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r NYC TimeLapse f&uuml;r iMovie und FCPX">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/nyc-timelapse-f%C3%BCr-imovie-und-fcpx/id717368886?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=717368886&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Tutor for iMovie" adam-id="1062355569" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/tutor-for-imovie/id1062355569?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Tutor for iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/fe/f7/b8fef7dd-d91b-9553-abab-abf431bdcbf0/source/150x150bb.png" src-swap="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/fe/f7/b8fef7dd-d91b-9553-abab-abf431bdcbf0/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/tutor-for-imovie/id1062355569?mt=12">Tutor for iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=1062355569&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=818161403" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/tutor-for-imovie/id1062355569?mt=12&#34;}" minimumOSVersion="10.8" bundle-id="com.noteboomproductions.com.tfimovie101" original-price="6,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple60/v4/2d/8d/1e/2d8d1ec2-a027-3e68-4683-550d414d5859/signed.dcr.3504638371581516653.pfpkg" versionID="818161403" adam-id="1062355569" dk-id="30" item-name="Tutor for iMovie" buy-params="productType=C&amp;price=6990&amp;salableAdamId=1062355569&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=818161403" version-string="10.3" large-icon="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/b8/fe/f7/b8fef7dd-d91b-9553-abab-abf431bdcbf0/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">6,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>6,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Tutor for iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/tutor-for-imovie/id1062355569?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=1062355569&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Story Telling and Editing Course For iMovie" adam-id="979389049" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/story-telling-and-editing-course-for-imovie/id979389049?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Story Telling and Editing Course For iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/c9/f9/5a/c9f95a6a-feb0-18b1-cab4-39e56fdca1f8/source/150x150bb.png" src-swap="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/c9/f9/5a/c9f95a6a-feb0-18b1-cab4-39e56fdca1f8/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/story-telling-and-editing-course-for-imovie/id979389049?mt=12">Story Telling and Editing Course For iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=979389049&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=812058071" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/story-telling-and-editing-course-for-imovie/id979389049?mt=12&#34;}" minimumOSVersion="10.9" bundle-id="com.nonlineareducating.x.imovie102" original-price="14,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/b4/15/89/b41589cd-7a33-9a7e-e2b3-c1bcd06b87c0/encrypted161598406878520919.pfpkg" versionID="812058071" adam-id="979389049" dk-id="30" item-name="Story Telling and Editing Course For iMovie" buy-params="productType=C&amp;price=14990&amp;salableAdamId=979389049&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=812058071" version-string="2.0.2" large-icon="https://is3-ssl.mzstatic.com/image/thumb/Purple1/v4/c9/f9/5a/c9f95a6a-feb0-18b1-cab4-39e56fdca1f8/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">14,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>14,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Story Telling and Editing Course For iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/story-telling-and-editing-course-for-imovie/id979389049?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=979389049&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+<div rating-software="100,itunes-games" parental-rating="1" metrics-loc="Lockup_" role="group" aria-label="Course for Effects and Color Correction for iMovie" adam-id="882923216" class="lockup small detailed option application mac-application">
+  
+  <a href="https://itunes.apple.com/de/app/course-for-effects-and-color-correction-for-imovie/id882923216?mt=12" class="artwork-link"><div class="artwork">
+    <img width="75" height="75" alt="Course for Effects and Color Correction for iMovie" src-load-auto-after-page-load-if-not-onscreen="" src-swap-high-dpi="https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/d7/1a/1e/d71a1eae-d13b-46e0-a184-b119736047bd/source/150x150bb.png" src-swap="https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/d7/1a/1e/d71a1eae-d13b-46e0-a184-b119736047bd/source/75x75bb.png" class="artwork" src="https://s.mzstatic.com/htmlResources/904f/frameworks/images/p.png" />
+    
+    
+    
+</div></a>
+  <ul class="list"><li class="name"><a href="https://itunes.apple.com/de/app/course-for-effects-and-color-correction-for-imovie/id882923216?mt=12">Course for Effects and Color Correction for iMovie</a></li><li class="genre">Video</li><li class="customer-ratings"></li><li><div rating-software="100,itunes-games" parental-rating="1" class="multi-button action small application mac-application detailed">
+  <button update-buy-params="productType=C&amp;price=0&amp;salableAdamId=882923216&amp;pricingParameters=SWUPD&amp;pg=default&amp;appExtVrsId=813062767" share-message-data="{&#34;tinyUrl&#34;:&#34;https://itunes.apple.com/de/app/course-for-effects-and-color-correction-for-imovie/id882923216?mt=12&#34;}" minimumOSVersion="10.9" bundle-id="com.nonlineareducating.AOM000913" original-price="14,99 €" preflight="http://osxapps.itunes.apple.com/apple-assets-us-std-000001/Purple49/v4/48/27/0d/48270dc5-ca40-70be-6aba-eb16ee300434/encrypted6384867207449900666.pfpkg" versionID="813062767" adam-id="882923216" dk-id="30" item-name="Course for Effects and Color Correction for iMovie" buy-params="productType=C&amp;price=14990&amp;salableAdamId=882923216&amp;pricingParameters=STDQ&amp;pg=default&amp;appExtVrsId=813062767" version-string="2.1.0" large-icon="https://is4-ssl.mzstatic.com/image/thumb/Purple18/v4/d7/1a/1e/d71a1eae-d13b-46e0-a184-b119736047bd/source/175x175bb.png" metrics-leaf="1" metrics-loc="Buy" class="button-area">
+    <span class="price">14,99 €</span>
+    <span class="left-cap"></span>
+    <div class="inner"><span>14,99 €</span></div>
+    <span class="right-cap"></span>
+  </button>
+  
+    <select aria-label="Aktionen f&uuml;r Course for Effects and Color Correction for iMovie">
+      
+        <option action="copy-link" href="https://itunes.apple.com/de/app/course-for-effects-and-color-correction-for-imovie/id882923216?mt=12" metrics-loc="CopyLink" metrics-leaf="1">Link kopieren</option>
+      
+        <option taf-body-url="https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/tellAFriendBody?name=s&amp;type=14&amp;id=882923216&amp;displayable-kind=30" action="tell-a-friend" metrics-loc="TellAFriend" metrics-leaf="1">Freunden empfehlen</option>
+      
+    </select>
+    <span class="arrow"></span>
+  
+</div></li></ul>  
+</div>
+</div>
+    </div>
+    
+  </div>
+</div>
+
+        
+
+        
+
+      </div>
+    </div>
+
+  
+
+      </div>
+
+
+      
+      
+
+    </div>
+  </div>
+
+  <footer>
+  <div class="legal">
+    <span class="copyright">Copyright © 2018 Apple Distribution International <a target="_blank" href="https://www.apple.com/de/legal/">Alle Rechte vorbehalten.</a></span>
+    <ul class="list" role="presentation">
+      <li><a target="_blank" href="https://www.apple.com/de/privacy/">Datenschutzrichtlinie</a></li>
+      <li><a target="_blank" href="http://www.apple.com/legal/itunes/de/terms.html">Allgemeine Geschäftsbedingungen</a></li>
+      
+        <li><a href="https://getsupport.apple.com/GetproductgroupList.do?caller=erep&amp;PGF=PGF51002&amp;category_id=SC0999&amp;symptom_id=21148&amp;locale=de_DE" target="_blank">E-Mail iTunes Support</a></li>
+      
+      <li><a href="https://itunes.apple.com/de/faq">Häufig gestellte Fragen</a></li>
+    </ul>
+    
+    <div class="intl" metrics-loc="CountryPicker">
+      <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/countrySelectorPage"><img src-load-auto-after-dom-load="" width="30" height="30" src-swap-high-dpi="https://s.mzstatic.com/images/flags/-dsi-30/deu.png" alt="Mein Store: Deutschland, Store wählen" src-swap="https://s.mzstatic.com/images/flags/30/deu.png"></img></a>
+      
+    </div>
+    
+  </div>
+</footer>
+
+
+  
+  <script type="text/javascript">
+    var pageMetricsUrl = 'https://xp.apple.com/report/2/xp_its_main?responseType=image&eventType=page&app=MacAppStore&pageId=DAHSearchPage&pageType=finance&eventSource=server&page=finance_DAHSearchPage';
+    if (pageMetricsUrl) {
+        pageMetricsUrl += "&eventTime=" + encodeURIComponent((new Date()).getTime());
+    }
+    var billingSection = document.querySelector(".edit-billing, .creditcard");
+    if (billingSection !== null) {
+        var selectedPaymentType = document.querySelector(".credit-card-picker input.selected, #paymentTypeField");
+        if (selectedPaymentType !== null) {
+            pageMetricsUrl += "&pageDetails=pmtTyp%3D" + selectedPaymentType.value;
+        } 
+    }
+    if (its && its.cookies) {
+        var itcCt = its.cookies.getUnescaped("itcCt");
+        var itscc = its.cookies.getUnescaped("itscc");
+        var hasitcCt = false;
+        if (itcCt && itcCt !== "") {
+            pageMetricsUrl += "&cookie=itcCt%3D" + itcCt;
+            hasitcCt = true;
+        }
+        if (itscc && itscc != "") {
+            pageMetricsUrl += (hasitcCt) ? "%26" : "&cookie=";
+            pageMetricsUrl += "itscc%3D" + itscc;
+        }
+    }
+    var containingDiv = document.createElement('div');
+    containingDiv.innerHTML = "<img width='0' height='0' border='0' alt='' aria-hidden=true src='" + pageMetricsUrl + "'/>";
+    document.body.appendChild(containingDiv);
+
+    // NOTE: This should be considered temporary and replaced when a better solution is available.
+    //      right now, SFMetrics should be referenced for all of these, but MZComponents can't access anything
+    //      in MZStoreComponents so we're going to have to go with this workaround.
+    var metricsConfig = {
+        'metricsUrl' : 'https://xp.apple.com/report/2/',
+        'compoundSeparator' : '_',
+        'tokenSeparator' : '|',
+        'postFrequency' : 60000,
+        'metricsBase' : {}
+    };
+</script>
+
+</body>
+
+
+</html>

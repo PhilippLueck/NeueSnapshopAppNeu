@@ -1,0 +1,1329 @@
+
+  
+  
+<div class='customer-ratings'>
+  <h4>Kundenbewertungen</h4>
+  <div class="ratings-container">
+    <div class="histogram-container">
+      
+      
+<div class="ratings-histogram">
+  <a href="#" aria-label='Drei Sterne, Gesamtwertung:'>Gesamtwertung:</a>
+
+  
+    <div class='rating' role='img' tabindex='-1' aria-label='Drei Sterne, 257 Bewertungen'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div><span class="rating-count">257 Bewertungen</span>
+</div>
+
+  
+
+  <div class="vote" role="text" aria-label='Fünf Sterne, 88 Bewertungen'>
+    <div class='stars' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+    <div class="graph">
+      <span class="bar" style="width: 82%;"></span>
+    </div>
+    <span class="total">88</span>
+  </div>
+
+  <div class="vote" role="text" aria-label='Vier Sterne, 28 Bewertungen'>
+    <div class='stars' role='img' tabindex='-1' aria-label='Vier Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+    <div class="graph">
+      <span class="bar" style="width: 26%;"></span>
+    </div>
+    <span class="total">28</span>
+  </div>
+
+  <div class="vote" role="text" aria-label='Drei Sterne, 17 Bewertungen'>
+    <div class='stars' role='img' tabindex='-1' aria-label='Drei Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+    <div class="graph">
+      <span class="bar" style="width: 15%;"></span>
+    </div>
+    <span class="total">17</span>
+  </div>
+
+  <div class="vote" role="text" aria-label='Zwei Sterne, 17 Bewertungen'>
+    <div class='stars' role='img' tabindex='-1' aria-label='Zwei Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+    <div class="graph">
+      <span class="bar" style="width: 15%;"></span>
+    </div>
+    <span class="total">17</span>
+  </div>
+
+  <div class="vote" role="text" aria-label='Ein Stern, 107 Bewertungen'>
+    <div class='stars' role='img' tabindex='-1' aria-label='Ein Stern'><div><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+    <div class="graph">
+      <span class="bar" style="width: 100%;"></span>
+    </div>
+    <span class="total">107</span>
+  </div>
+
+</div>
+
+      
+        
+      
+      
+
+      
+    </div>
+
+    <div class="rating-widget-container">
+      <div rating-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/userRateContent?id=408981434&displayable-kind=30' class="rate-stars"><h5 class="rating-label">Diese App bewerten:</h5><div role=""><span star-count="1" role="radio" aria-checked="false" aria-label="1 Stern - schlecht"></span><span star-count="2" role="radio" aria-checked="false" aria-label="2 Sterne - eher nicht"></span><span star-count="3" role="radio" aria-checked="false" aria-label="3 Sterne - ganz nett"></span><span star-count="4" role="radio" aria-checked="false" aria-label="4 Sterne - mag ich"></span><span star-count="5" role="radio" aria-checked="false" aria-label="5 Sterne - echt super"></span></div><span class="rating-desc" aria-hidden="true"></span></div>
+
+      <div class="has-not-purchased">Um eine Bewertung für diese App abgeben zu können, musst du sie im Mac App Store gekauft haben.</div>
+    </div>
+  </div>
+</div>
+
+  
+
+
+
+
+<div class="customer-reviews" >
+  <div class="title hidden"><h4>Eine Rezension schreiben</h4></div>
+  <div class="inline-review" content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/writeUserReview?id=408981434&amp;displayable-kind=30'></div>
+  <div class="title">
+    <h4>Kundenrezensionen</h4>
+  </div>
+  
+    
+  
+
+  <div class="paginate all-reviews" goto-page-href='https://itunes.apple.com/de/customer-reviews?displayable-kind=30&amp;id=408981434&amp;update=1'>
+  
+  <div class="write-a-review">
+    
+    <a href='#' class="write-a-review-link see-all">Eine Rezension schreiben</a>
+    <div class="has-not-purchased">Um eine Kundenrezension für diese App schreiben zu können, musst du sie im Mac App Store gekauft haben.</div>
+  </div>
+  
+
+
+
+  <div class="controls-container">
+
+    
+    <div class="select"><label class="select">Sortieren nach:<select name="sort">
+      <option value='1'>Nützlichste Rezensionen</option><option value='2'>Positivste Rezensionen</option><option value='3'>Kritischste Rezensionen</option><option value='4'>Neueste Rezensionen</option>
+    </select></label></div>
+    
+
+    
+    <div class="pagination-controls">
+    </div>
+    
+
+  </div>
+
+  <div class="paginated-container">
+    <div class="paginated-content" page-number='1' sort-key='1' total-number-of-pages='67' pill-identifier="0">
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Tolles Programm, kinderleicht zu bedienen</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=28868822' class="reviewer">Cerise58</a>
+     -
+     Version
+     10.1.6
+    
+    -
+     24.07.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=28868822' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Wir nutzen iMovie seit etwa 15 Jahren, logischerweise in verschiedenen Versionen. Es bietet sehr gute Möglichkeiten sowhl kurze Clips zu erstellen als auch lange Filme (von z.B. Musikschul-Aufführungen), in denen ich die externen Audio-Aufnahmen mit den Filmaufnahmen synchronisieren kann und sich sogar die Geschwindigkeiten aufeinander exakt abstimmen lassen (das habe ich bereits vor 10 Jahren gemacht!).<br/>Inzwischen arbeiten meine Kinder damit (12 und 13 Jahre). Ihre Einarbeitungszeit in das Programm war erstaunlich kurz, jetzt kombinieren sie wie selbstverständlich Szenen mit Musik und Geräuschen, lassen Szenen rückwärts laufen oder dehnen sie und so weiter. Also durchaus ‚kinderleicht‘.<br/>Allerdings ist so ein Programm grundsätzlich sehr komplex und viele Möglichkeiten können sie noch nicht durchdringen.<br/>Das Programm hat bis jetzt jede meiner Kameras erkannt und ausgelesen. Es kann meine favorisierten Dateiformate exportieren in unterschiedlichen Qualitäten. Für ein ‚kostenloses‘ Programm ist das schon genial. Ich habe mir oft überlegt, ob ich ‚FinalCut‘ für die Bearbeitung der Aufführungen kaufen soll, aber es war einfach nicht notwendig. Das ist etwas für den professionellen Bereich.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">68 
+      von 
+      72
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1696435364'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1696435364'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Leichte Bedienung und bei simplem Umfang</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=100762342' class="reviewer">ZappoB</a>
+     -
+     Version
+     10.1.6
+    
+    -
+     29.05.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=100762342' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Für eine kostenlose Videobearbeitung schlägt sich iMove recht gut, die Bedienung ist simpel und flott, der Funktionsumfang entsprechend eingeschränkt. Für meine Tutorial-Videos ist es aber absolut ausreichend und die wenigsten Hobby-Filmer werder mehr benötigen. Einige Automatismen, wie z. B. das automatische Absenken der Musik, wenn gesprochene Texte eingefügt werden, sind sehr praktisch. Ich habe bislang einige Projekte damit erstellt und bin sehr zufrieden mit der einfachen Funktionsweise.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">51 
+      von 
+      57
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1627151655'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1627151655'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Okay …..?!</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=102030566' class="reviewer">roverredd</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     23.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=102030566' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Apple versucht hier auf die einfache Weise seinem Ruf als Gestaltungsprofi in Sachen Bild gerecht zu werden. Ich habe in den letzten Jahren an Videobearbeitungssoftware viel ausprobiert und muss sagen, dass sich die Bedienungskonzepte sehr ähneln. Man versucht es dem Benutzer leicht zu machen. So auch hier, allerdings geht Apple da wieder seinen eigenen Weg, der gewöhnungsbedürftig ist und sich im hier Detail von der Konkurrenz unterscheidet. Schlecht ist iMovie deswegen nicht, aber eben anders und das macht in der Bedienung viel aus. Ich werde sehen, wie weit ich damit komme.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">6 
+      von 
+      19
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2020038525'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2020038525'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Alles wieder gut</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=30847793' class="reviewer">fiftyniner</a>
+     -
+     Version
+     10.1.7
+    
+    -
+     26.10.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=30847793' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich hatte die gleichen Probleme wie viele hier, sofortiger Absturz nach Öffnen von Projekten. Habe dann mit CleanMyMac 3 iMovie 10 und iMovie 9 (ja , das war auch noch auf meinem Rechner!) mit allem Zubehör außer der iMovie-Bibliothek deinstalliert und dann iMovie 10.1.7 wieder installiert. Seitdem läuft alles wie gewohnt, also super!
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">16 
+      von 
+      20
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1877225504'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1877225504'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Update iMovie</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=329496412' class="reviewer">Üf1</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     03.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=329496412' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Hallo zusammen, beim Aktualisieren von Imovie hatte ich leider eine Strom Unterbrechung und das Update konnte nicht durchgeführt werden. Ich hatte es danach versucht es erneut zu starten, jetzt bekomme ich immer die Meldung: Wir konnten Ihre Aktualisierung nicht abschließen., die Netzwerkverbindung wurde unterbrochen. Kann mir vielleicht einer sagen wie ich das beheben kann und das Update durchführe?<br/><br/>Danke schon mal
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">3 
+      von 
+      16
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1967804185'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1967804185'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Klappt SUPER!</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=267104546' class="reviewer">Wheeliecrew</a>
+     -
+     Version
+     10.1.6
+    
+    -
+     12.06.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=267104546' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich nehme immer Videos mit meiner GoPro auf und das Programm öffnet sich auch sofort! Es ist sehr leicht zu verstehen und es treten kaum Fehler auf… Oft stellen wir einfach bearbeitete Videos bei YouTube rein und machen etwas Aufmerksamkeit im netz damit. Die App kann ich wirklich nur weiterempfehlen...
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">21 
+      von 
+      25
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1642157851'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1642157851'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Ich weiß gar nicht was alle haben?</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=666138050' class="reviewer">Jenny abroad</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     27.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=666138050' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich finde iMovie wirklich super! Davor hatte ich ein sehr teures Programm, dass immer und immer wieder abestürzt ist. Dann traf ich auf iMovie. Klar war dies eine große Umstellung aber inzwischen klappt es sehr gut und mit dem Endergebnis bin ich auch sehr zufrieden! Bei mir hat auch nie Videomaterial gefehlt und es wurde immer alles angezeigt. Kurz: Es lohnt sich 😇
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">3 
+      von 
+      5
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2032451178'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2032451178'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Programm stürzt nach Start sofort ab...</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=189180527' class="reviewer">Vik Stepien</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     17.01.2018
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=189180527' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  …falls jemand dieses Problem auf einem Macbook mit angeschlossenem externem Monitor haben sollte:<br/><br/>Einfach das Macbook aufklappen. Dann funktioniert es auch mit einem externen Monitor.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">6 
+      von 
+      9
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2098943283'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2098943283'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">eigentlich tolles Programm, aber seit dem Update nicht mehr nutzbar</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Ein Stern'><div><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=35271381' class="reviewer">Peritus42</a>
+     -
+     Version
+     10.1.7
+    
+    -
+     08.10.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=35271381' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich nutze iMovie seit Jahren und finde das Programm wirklich gut, Grund zur Kritik besteht allerdings bzgl. der Updatestrategie von Apple. Zum wiederholten Male wird ein Systemupdate eingespielt, dass die App völlig unbrauchbar macht. Nach dem Start der App wird die Mediathek geladen und das Programm stürzt ab. Das war bereits bei früheren Systemupdates der Fall. Es dauert dann einige Zeit, bis Apple das Problem mittels Patch löst. Da Apple sowohl das System, wie auch die App entwickelt ist es für mich absolut unverständlich, dass hier ein Systemupdate freigegeben wird und nicht sichergestellt ist, dass ein hauseigenes Programm wie iMovie damit fehlerfrei funktioniert...
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">45 
+      von 
+      54
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1835037758'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1835037758'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Probleme beim Exportieren mit Fotos</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Drei Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=22389516' class="reviewer">dieter999</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     18.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=22389516' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  iMovie kann keine Fotos über 4000 Pixel Breite verarbeiten. Deshalb gibt es die Probleme mit dem grünen Bildschirm.<br/>Man merkt das leider erst nach dem Exportieren. FinalCut scheint die gleichen Probleme zu haben.<br/>Deshalb nur 3 Sterne. Da sollte Apple echt nachbessern.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">13 
+      von 
+      16
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2005727934'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2005727934'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+
+</div>
+  </div>
+
+  <div class="footer">
+
+
+  
+  <div class="pagination-controls">
+  </div>
+  
+
+  </div>
+
+  </div>
+
+  
+  <div class="paginate current-reviews" goto-page-href='https://itunes.apple.com/de/customer-reviews?displayable-kind=30&amp;id=408981434&amp;update=1&amp;appVersion=current'>
+  
+  <div class="write-a-review">
+    
+    <a href='#' class="write-a-review-link see-all">Eine Rezension schreiben</a>
+    <div class="has-not-purchased">Um eine Kundenrezension für diese App schreiben zu können, musst du sie im Mac App Store gekauft haben.</div>
+  </div>
+  
+
+  <div class="controls-container">
+
+    
+    <div class="select"><label class="select">Sortieren nach:<select name="sort">
+      <option value='1'>Nützlichste Rezensionen</option><option value='2'>Positivste Rezensionen</option><option value='3'>Kritischste Rezensionen</option><option value='4'>Neueste Rezensionen</option>
+    </select></label></div>
+    
+
+    
+    <div class="pagination-controls">
+    </div>
+    
+
+  </div>
+
+  <div class="paginated-container">
+    <div class="paginated-content" page-number='1' sort-key='1' total-number-of-pages='67' pill-identifier="0">
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Tolles Programm, kinderleicht zu bedienen</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=28868822' class="reviewer">Cerise58</a>
+     -
+     Version
+     10.1.6
+    
+    -
+     24.07.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=28868822' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Wir nutzen iMovie seit etwa 15 Jahren, logischerweise in verschiedenen Versionen. Es bietet sehr gute Möglichkeiten sowhl kurze Clips zu erstellen als auch lange Filme (von z.B. Musikschul-Aufführungen), in denen ich die externen Audio-Aufnahmen mit den Filmaufnahmen synchronisieren kann und sich sogar die Geschwindigkeiten aufeinander exakt abstimmen lassen (das habe ich bereits vor 10 Jahren gemacht!).<br/>Inzwischen arbeiten meine Kinder damit (12 und 13 Jahre). Ihre Einarbeitungszeit in das Programm war erstaunlich kurz, jetzt kombinieren sie wie selbstverständlich Szenen mit Musik und Geräuschen, lassen Szenen rückwärts laufen oder dehnen sie und so weiter. Also durchaus ‚kinderleicht‘.<br/>Allerdings ist so ein Programm grundsätzlich sehr komplex und viele Möglichkeiten können sie noch nicht durchdringen.<br/>Das Programm hat bis jetzt jede meiner Kameras erkannt und ausgelesen. Es kann meine favorisierten Dateiformate exportieren in unterschiedlichen Qualitäten. Für ein ‚kostenloses‘ Programm ist das schon genial. Ich habe mir oft überlegt, ob ich ‚FinalCut‘ für die Bearbeitung der Aufführungen kaufen soll, aber es war einfach nicht notwendig. Das ist etwas für den professionellen Bereich.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">68 
+      von 
+      72
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1696435364'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1696435364'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Leichte Bedienung und bei simplem Umfang</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=100762342' class="reviewer">ZappoB</a>
+     -
+     Version
+     10.1.6
+    
+    -
+     29.05.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=100762342' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Für eine kostenlose Videobearbeitung schlägt sich iMove recht gut, die Bedienung ist simpel und flott, der Funktionsumfang entsprechend eingeschränkt. Für meine Tutorial-Videos ist es aber absolut ausreichend und die wenigsten Hobby-Filmer werder mehr benötigen. Einige Automatismen, wie z. B. das automatische Absenken der Musik, wenn gesprochene Texte eingefügt werden, sind sehr praktisch. Ich habe bislang einige Projekte damit erstellt und bin sehr zufrieden mit der einfachen Funktionsweise.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">51 
+      von 
+      57
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1627151655'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1627151655'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Okay …..?!</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=102030566' class="reviewer">roverredd</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     23.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=102030566' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Apple versucht hier auf die einfache Weise seinem Ruf als Gestaltungsprofi in Sachen Bild gerecht zu werden. Ich habe in den letzten Jahren an Videobearbeitungssoftware viel ausprobiert und muss sagen, dass sich die Bedienungskonzepte sehr ähneln. Man versucht es dem Benutzer leicht zu machen. So auch hier, allerdings geht Apple da wieder seinen eigenen Weg, der gewöhnungsbedürftig ist und sich im hier Detail von der Konkurrenz unterscheidet. Schlecht ist iMovie deswegen nicht, aber eben anders und das macht in der Bedienung viel aus. Ich werde sehen, wie weit ich damit komme.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">6 
+      von 
+      19
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2020038525'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2020038525'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Alles wieder gut</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=30847793' class="reviewer">fiftyniner</a>
+     -
+     Version
+     10.1.7
+    
+    -
+     26.10.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=30847793' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich hatte die gleichen Probleme wie viele hier, sofortiger Absturz nach Öffnen von Projekten. Habe dann mit CleanMyMac 3 iMovie 10 und iMovie 9 (ja , das war auch noch auf meinem Rechner!) mit allem Zubehör außer der iMovie-Bibliothek deinstalliert und dann iMovie 10.1.7 wieder installiert. Seitdem läuft alles wie gewohnt, also super!
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">16 
+      von 
+      20
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1877225504'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1877225504'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Update iMovie</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Vier Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=329496412' class="reviewer">Üf1</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     03.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=329496412' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Hallo zusammen, beim Aktualisieren von Imovie hatte ich leider eine Strom Unterbrechung und das Update konnte nicht durchgeführt werden. Ich hatte es danach versucht es erneut zu starten, jetzt bekomme ich immer die Meldung: Wir konnten Ihre Aktualisierung nicht abschließen., die Netzwerkverbindung wurde unterbrochen. Kann mir vielleicht einer sagen wie ich das beheben kann und das Update durchführe?<br/><br/>Danke schon mal
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">3 
+      von 
+      16
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1967804185'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1967804185'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Klappt SUPER!</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=267104546' class="reviewer">Wheeliecrew</a>
+     -
+     Version
+     10.1.6
+    
+    -
+     12.06.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=267104546' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich nehme immer Videos mit meiner GoPro auf und das Programm öffnet sich auch sofort! Es ist sehr leicht zu verstehen und es treten kaum Fehler auf… Oft stellen wir einfach bearbeitete Videos bei YouTube rein und machen etwas Aufmerksamkeit im netz damit. Die App kann ich wirklich nur weiterempfehlen...
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">21 
+      von 
+      25
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1642157851'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1642157851'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Ich weiß gar nicht was alle haben?</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=666138050' class="reviewer">Jenny abroad</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     27.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=666138050' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich finde iMovie wirklich super! Davor hatte ich ein sehr teures Programm, dass immer und immer wieder abestürzt ist. Dann traf ich auf iMovie. Klar war dies eine große Umstellung aber inzwischen klappt es sehr gut und mit dem Endergebnis bin ich auch sehr zufrieden! Bei mir hat auch nie Videomaterial gefehlt und es wurde immer alles angezeigt. Kurz: Es lohnt sich 😇
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">3 
+      von 
+      5
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2032451178'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2032451178'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Programm stürzt nach Start sofort ab...</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Fünf Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=189180527' class="reviewer">Vik Stepien</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     17.01.2018
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=189180527' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  …falls jemand dieses Problem auf einem Macbook mit angeschlossenem externem Monitor haben sollte:<br/><br/>Einfach das Macbook aufklappen. Dann funktioniert es auch mit einem externen Monitor.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">6 
+      von 
+      9
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2098943283'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2098943283'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">eigentlich tolles Programm, aber seit dem Update nicht mehr nutzbar</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Ein Stern'><div><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=35271381' class="reviewer">Peritus42</a>
+     -
+     Version
+     10.1.7
+    
+    -
+     08.10.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=35271381' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  Ich nutze iMovie seit Jahren und finde das Programm wirklich gut, Grund zur Kritik besteht allerdings bzgl. der Updatestrategie von Apple. Zum wiederholten Male wird ein Systemupdate eingespielt, dass die App völlig unbrauchbar macht. Nach dem Start der App wird die Mediathek geladen und das Programm stürzt ab. Das war bereits bei früheren Systemupdates der Fall. Es dauert dann einige Zeit, bis Apple das Problem mittels Patch löst. Da Apple sowohl das System, wie auch die App entwickelt ist es für mich absolut unverständlich, dass hier ein Systemupdate freigegeben wird und nicht sichergestellt ist, dass ein hauseigenes Programm wie iMovie damit fehlerfrei funktioniert...
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">45 
+      von 
+      54
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=1835037758'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=1835037758'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+    
+<div class="da-review customer-review">
+
+ <div class="review-header">
+  <div class="review-meta">
+   <h5>
+    <span class="customerReviewTitle">Probleme beim Exportieren mit Fotos</span>
+    <div class='rating' role='img' tabindex='-1' aria-label='Drei Sterne'><div><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star">&nbsp;</span><span class="rating-star ghost">&nbsp;</span><span class="rating-star ghost">&nbsp;</span></div></div>
+
+   </h5>
+   <span class="user-info">von
+    <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=22389516' class="reviewer">dieter999</a>
+     -
+     Version
+     10.1.8
+    
+    -
+     18.12.2017
+   </span>
+  </div>
+  <div class="review-see-all">
+   <a href='https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewUsersUserReviews?userProfileId=22389516' class="see-all">
+   Alle Rezensionen von diesem Benutzer
+   </a>
+  </div>
+ </div>
+ <p class="content" data-text-truncate-lines="6">
+  iMovie kann keine Fotos über 4000 Pixel Breite verarbeiten. Deshalb gibt es die Probleme mit dem grünen Bildschirm.<br/>Man merkt das leider erst nach dem Exportieren. FinalCut scheint die gleichen Probleme zu haben.<br/>Deshalb nur 3 Sterne. Da sollte Apple echt nachbessern.
+ </p>
+ 
+ 
+ 
+ <div class="feedback">
+   <div class="helpful-wrapper">
+    
+     <div class="stats">13 
+      von 
+      16
+      Kunden fanden diese Rezension hilfreich
+     </div>
+    
+    <div class="rate" reviewer-dsid='' content='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/rateUserReview?userReviewId=2005727934'>War diese Rezension hilfreich? 
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Ja'
+        class='helpful-vote' vote="1">Ja</a> |
+     <a href="javascript:void(0)" oncontextmenu="return false;"
+        alt='Nein'
+        class='helpful-vote' vote="0">Nein</a>
+    </div>
+   </div>
+   <div class="report-a-concern" report-a-concern-fragment-url='https://userpub.itunes.apple.com/WebObjects/MZUserPublishing.woa/wa/reportAConcernFragment?userReviewId=2005727934'>
+    <a href="javascript:void(0)" oncontextmenu="return false;" class="report" alt='Ein Problem melden'>Ein Problem melden</a>
+   </div>
+ </div>
+</div>
+
+  
+
+</div>
+  </div>
+
+  <div class="footer">
+
+
+  
+  <div class="pagination-controls">
+  </div>
+  
+
+  </div>
+
+  </div>
+  
+</div>
+
